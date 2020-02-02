@@ -7,6 +7,7 @@
 const IGNORED_FILES = [
 	"package-lock.json",
 	"module.json",
+	"manifest.json",
 	"manifest-generator.js",
 	"manifest-generator.bat",
 	"manifest-generator.exe",
