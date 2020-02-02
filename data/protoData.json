@@ -130,5 +130,8 @@
 	},
 	"S_CREATURE_ROTATE": {
 		"default": 2
+	},
+	"S_USER_LOCATION_IN_ACTION": {
+		"default": 2
 	}
 }
