@@ -1,0 +1,134 @@
+{
+	"S_SYSTEM_MESSAGE": {
+		"default": 1
+	},
+	"C_SHOW_ITEMLIST": {
+		"default": 1
+	},
+	"S_INVEN_USERDATA": {
+		"default": 2
+	},
+	"S_ITEMLIST": {
+		"default": 3
+	},
+	"S_UPDATE_ACHIEVEMENT_PROGRESS": {
+		"default": 1
+	},
+	"S_LOAD_TOPO": {
+		"default": 3
+	},
+	"S_DESPAWN_COLLECTION": {
+		"default": 2
+	},
+	"S_SPAWN_COLLECTION": {
+		"default": 4
+	},
+	"S_REQUEST_SPAWN_SERVANT": {
+		"default": 4
+	},
+	"S_REQUEST_DESPAWN_SERVANT": {
+		"default": 1
+	},
+	"S_SPAWN_NPC": {
+		"default": 11
+	},
+	"S_DESPAWN_NPC": {
+		"default": 3
+	},
+	"S_SPAWN_USER": {
+		"default": 15
+	},
+	"S_DESPAWN_USER": {
+		"default": 3
+	},
+	"S_SPAWN_DROPITEM": {
+		"default": 8
+	},
+	"S_DESPAWN_DROPITEM": {
+		"default": 4
+	},
+	"S_SOCIAL": {
+		"default": 1
+	},
+	"S_USER_STATUS": {
+		"default": 3
+	},
+	"S_USER_MOVETYPE": {
+		"default": 1
+	},
+	"S_FEARMOVE_STAGE": {
+		"default": 2
+	},
+	"S_FEARMOVE_END": {
+		"default": 2
+	},
+	"S_INSTANCE_ARROW": {
+		"default": 4
+	},
+	"S_CREATURE_CHANGE_HP": {
+		"default": 6
+	},
+	"S_PLAYER_CHANGE_MP": {
+		"default": 1
+	},
+	"S_EACH_SKILL_RESULT": {
+		"default": 14
+	},
+	"S_ACTION_STAGE": {
+		"default": 9
+	},
+	"S_ACTION_END": {
+		"default": 5
+	},
+	"S_ABNORMALITY_BEGIN": {
+		"default": 3
+	},
+	"S_ABNORMALITY_END": {
+		"default": 1
+	},
+	"S_ABNORMALITY_FAIL": {
+		"default": 2
+	},
+	"S_ABNORMALITY_DAMAGE_ABSORB": {
+		"default": 1
+	},
+	"S_ABNORMALITY_RESIST": {
+		"default": 1
+	},
+	"S_SPAWN_PROJECTILE": {
+		"default": 5
+	},
+	"S_START_USER_PROJECTILE": {
+		"default": 9
+	},
+	"S_END_USER_PROJECTILE": {
+		"default": 4
+	},
+	"S_DESPAWN_PROJECTILE": {
+		"default": 2
+	},
+	"S_USER_APPEARANCE_CHANGE": {
+		"default": 1
+	},
+	"S_USER_EXTERNAL_CHANGE": {
+		"default": 7
+	},
+	"S_UNICAST_TRANSFORM_DATA": {
+		"default": 6
+	},
+	"S_USER_CHANGE_FACE_CUSTOM": {
+		"default": 2
+	},
+	"S_NPC_LOCATION": {
+		"default": 3
+	},
+	"S_USER_LOCATION": {
+		"default": 5
+	},
+	"S_CREATURE_LIFE": {
+		"default": 3
+	},
+	"S_CREATURE_ROTATE": {
+		"default": 2
+	}
+}

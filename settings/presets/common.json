@@ -1,0 +1,62 @@
+{
+	"directives": {
+		"default": "default",
+		"triggerGuardians": "default",
+		"triggerDungeons": {
+			"all": "default",
+			"vanigayId": "vanigay"
+		},
+		"triggerCU": "default",
+		"triggerBG": "default",
+		"triggerOW": "default"
+	},
+	"default": {
+		"throttleSomePackets": false,
+		"blockCustomAppearanceChanges": false,
+		"blockUselessPackets": false,
+		"blockAnnoyingScreenMessages": false,
+		"blockNpcsDeathAnimations": false,
+		"blockAchievementSpamInCombat": false,
+		"blockInventoryInCombat": false,
+		"blockHuntingRewardsBuffs": false,
+		"blockShapeChangeBuffs": false,
+		"blockOnScreenEffectsBuffs": false,
+		"blockAreaBuffs": false,
+		"blockShakeEffects": false,
+		"blockAreaHits": false,
+		"blockOwnHits": false,
+		"blockDamageNumbers": false,
+		"blockHpPopups": false,
+		"blockMpPopups": false,
+		"blockOwnServants": false,
+		"blockAreaServants": false,
+		"blockOwnSummons": false,
+		"blockAreaSummons": false,
+		"blockCollections": false,
+		"blockProjectiles": false,
+		"blockAdditionalSkillEffects": false,
+		"blockAdditionalSkillEffectsOptions": {
+			"own": false,
+			"players": false
+		},
+		"blockProjectilesOptions": {
+			"players": true
+		},
+		"blockDropItems": false,
+		"blockDropItemsOptions": {
+			"all": false,
+			"templateId": []
+		},
+		"blockNpcs": false,
+		"blockNpcsOptions": {
+			"aerial": false,
+			"templateId": [],
+			"huntingZoneId": []
+		},
+		"blockPlayers": false,
+		"blockPlayersOptions": {
+			"all": false,
+			"class": []
+		}
+	}
+}

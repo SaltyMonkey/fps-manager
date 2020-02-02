@@ -1,0 +1,8 @@
+{
+	"enableCommands": true,
+	"customCommandTag": "",
+	"enableModMessages": true,
+	"debug": false,
+	"classBasedPresets": true,
+	"applyTriggers": true
+}
