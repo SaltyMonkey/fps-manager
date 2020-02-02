@@ -1,0 +1,18 @@
+{
+    // The following will hide the js and map files in the editor
+    "files.exclude": {
+		".vscode/": true,
+		"**/*.dll": true,
+		"**/*.map": true,
+		"**/*.exe.config": true,
+		"**/*.exe": true,
+		"**/*.txt": true,
+		".gitignore": true,
+		".eslintrc.json": true
+	},
+	"editor.renderWhitespace": "all",
+	"eslint.alwaysShowStatus": true,
+	"terminal.integrated.fontSize": 13,
+	"editor.minimap.enabled": false,
+	"editor.suggestSelection": "recentlyUsedByPrefix"
+}

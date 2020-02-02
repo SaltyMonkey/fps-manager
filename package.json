@@ -1,0 +1,26 @@
+{
+  "name": "ngfps",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./fpsManager.js",
+  "engines": {
+    "node": ">=12.4.0"
+  },
+  "scripts": {
+    "lint": "eslint **/*.js --fix || exit 0",
+    "version": "auto-changelog --package && git add CHANGELOG.md",
+    "manifest": "node .\\.manifest.js"
+  },
+  "author": "SaltyMonkey",
+  "license": "MIT",
+  "devDependencies": {
+    "auto-changelog": "^1.16.2",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-node": "^11.0.0"
+  },
+  "dependencies": {
+    "fast-deep-equal": "^3.1.1",
+    "rfdc": "^1.1.4"
+  }
+}

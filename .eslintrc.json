@@ -1,0 +1,138 @@
+{
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "extends":[
+        "eslint:recommended",
+        "plugin:node/recommended"
+    ],
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 2020
+    },
+    "rules": {
+        "arrow-spacing": ["warn"],
+        "init-declarations": ["error", "always"],
+        "no-duplicate-imports": [
+            "warn"
+        ],
+        "no-const-assign": [
+            "warn"
+        ],
+        "no-import-assign": [
+            "error"
+        ],
+        "space-unary-ops": [
+            "error",
+            {
+              "words": true,
+              "nonwords": false
+        }],
+        "quote-props": [
+            "error", 
+            "always"
+        ],
+        "no-unneeded-ternary": [
+            "error"
+        ],
+        "rest-spread-spacing": ["error", "never"],
+        "no-param-reassign": [
+            "warn"
+        ],
+        "no-self-compare": [
+            "error"
+        ],
+        "prefer-object-spread": [ "warn"],
+        "indent": [
+            "warn",
+            "tab",
+            { "SwitchCase": 1 }
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-lone-blocks": [
+            "error"
+        ],
+        "no-multi-str": [
+            "error"
+        ],
+        "no-path-concat": [
+            "error"
+        ],
+        "no-process-exit": [
+            "error"
+        ],
+        "global-require": [
+            "warn"
+        ],
+        "no-lonely-if": [
+            "error"
+        ],
+        "no-spaced-func": [
+            "error"
+        ],
+        "no-confusing-arrow": [
+            "error"
+        ],
+        "prefer-template": [
+            "error"
+        ],
+        "no-constant-condition": [
+            "error"
+        ],
+        "arrow-body-style": [
+            "warn",
+            "as-needed"
+        ],
+        "no-var": [
+            "error"
+        ],
+        "no-nested-ternary": [
+            "warn"
+        ],
+        "no-multiple-empty-lines": [
+            "warn"
+        ],
+        "no-template-curly-in-string": [
+            "error"
+        ],
+        "no-empty-function": [
+            "error"
+        ],
+        "no-floating-decimal": [
+            "warn"
+        ],
+        "no-multi-spaces": [
+            "error"
+        ],
+        "guard-for-in": [
+            "warn"
+        ],
+        "yoda" : [
+            "error"
+        ],
+        "array-callback-return": [
+            "error"
+        ],
+        "no-dupe-else-if": [
+            "error"
+        ],
+        "no-magic-numbers": [
+            "warn"
+        ],
+        "vars-on-top": [
+            "warn"
+        ],
+        "func-call-spacing": [
+            "error"
+        ]
+    }
+}

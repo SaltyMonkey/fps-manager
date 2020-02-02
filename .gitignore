@@ -1,0 +1,6 @@
+*.exe
+*.config
+*.bak
+node_modules/*
+!node_modules/rfdc/
+!node_modules/fast-deep-equal/
