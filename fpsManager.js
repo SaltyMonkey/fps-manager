@@ -43,6 +43,9 @@ class FpsManager {
 			mod.error(msg.runtimeWarning);
 		else if(mod.proxyAuthor === "caali" && !mod.clientInterface) 
 			mod.error(msg.proxyWarning);
+		// eslint-disable-next-line node/no-missing-require
+		else if(!require("tera-data-parser").types)
+			mod.error(msg.proxyWarning);
 		
 		mod.game.initialize("me");
 
