@@ -38,6 +38,8 @@ class FpsManager {
 		*/
 		let deps = {};
 		
+		console.log("DEBUG: FpsManager -> constructor");
+		
 		//check compatibility (only warning atm)
 		if (mod.proxyAuthor !== "caali") 
 			mod.error(msg.runtimeWarning);
@@ -45,7 +47,7 @@ class FpsManager {
 			mod.error(msg.proxyWarning);
 		// eslint-disable-next-line node/no-missing-require
 		else if(!require("tera-data-parser").types)
-			mod.error(msg.proxyWarning);
+			mod.error(msg.runtimeWarning);
 		
 		mod.game.initialize("me");
 
