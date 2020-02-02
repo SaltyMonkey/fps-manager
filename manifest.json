@@ -1,7 +1,7 @@
 {
     "files": {
         "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-        "README.md": "996510526017c6ed41993e0345013b8336e5b9d346f970feb1006d63284d1a53",
+        "README.md": "452567935fbaea627e629fa9c52751140103f981603f0e140da240c6b9f26f6b",
         "data/protoData.json": "abf89cb293fd3243d3315746c4fbe25026cbbdbf5000678c38486f4850110990",
         "data/staticData.json": "e40da764790719bf21fe12691ffa84bbb6edf18040d20aa682e0d4aa2b5a1b44",
         "fpsManager.js": "6eaf9b90fb5e00bf41a0f5f66c71294e542990f903f5b8ccbd5a835516f0be72",
@@ -10,7 +10,7 @@
         "lib/unitControl.js": "a1e5b82f3799810603f73d347910a40948d0faf408fafdfd88883f750b1e6946",
         "lib/unitFps.js": "68ca72220c333f11ebbbbaf517dac27960e60c3461ab6183d048f0ae11b21802",
         "lib/unitProto.js": "063b5ff5f1825fb826f7f5154b783af493d78bd96e9abae6e2fa9ec47d9e72c1",
-        "lib/unitState.js": "f1c6a261d0abb102d3ea269511e616ea13d0765067161b3eb98835c892031cbb",
+        "lib/unitState.js": "29c270594279813264c270e43674c2fcae02731241cd229232a4513333b4a25d",
         "lib/unitTracker.js": "d74c4b9042e409e9d516403d54792350182b24945e2b4a8fcad13ddf5934c2ff",
         "manifest.json": "63dc2bbeeed10832595e7fbe3ee3f68b62553125769ce29781eeda5a8a1f13fa",
         "node_modules/fast-deep-equal/LICENSE": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
