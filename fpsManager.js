@@ -18,6 +18,11 @@
 * @property {*} mod
 */
 
+const msg = {
+	"proxyWarning": "Proxy runtime detected. Proper work not guaranteed.",
+	"runtimeWarning": "Outdated runtime detected. Proper work not guaranteed."
+};
+
 const units = [
 	["proto", require("./lib/unitProto")],
 	["data", require("./lib/unitState")],
@@ -28,18 +33,19 @@ const units = [
 
 class FpsManager {
 	constructor(mod) {
-		//check compatibility (only warning atm)
-		if (mod.proxyAuthor !== "caali") 
-			mod.error("This mod using possibly will be broken with this runtime.");
-		else if(mod.proxyAuthor === "caali" && !mod.clientInterface) 
-			mod.error("Proxy runtime detected. Proper work not guaranteed.");
-		
-		mod.game.initialize("me");
-
 		/** 
 		* @type {deps}
 		*/
 		let deps = {};
+		
+		//check compatibility (only warning atm)
+		if (mod.proxyAuthor !== "caali") 
+			mod.error(msg.runtimeWarning);
+		else if(mod.proxyAuthor === "caali" && !mod.clientInterface) 
+			mod.error(msg.proxyWarning);
+		
+		mod.game.initialize("me");
+
 		units.forEach(unit => {
 			// eslint-disable-next-line no-magic-numbers
 			deps[unit[0]] = new unit[1](deps);
