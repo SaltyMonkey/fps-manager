@@ -12,10 +12,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12
-    - name: Fix codestyle
-      run: |
-           npm ci
-           npm run lint
     - name: Generate manifest
       run: npm run manifest
     - name: Commit changes
