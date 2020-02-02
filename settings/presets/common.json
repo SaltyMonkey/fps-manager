@@ -49,7 +49,6 @@
 		},
 		"blockNpcs": false,
 		"blockNpcsOptions": {
-			"aerial": false,
 			"templateId": [],
 			"huntingZoneId": []
 		},
