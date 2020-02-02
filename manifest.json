@@ -12,7 +12,7 @@
         "lib/unitProto.js": "063b5ff5f1825fb826f7f5154b783af493d78bd96e9abae6e2fa9ec47d9e72c1",
         "lib/unitState.js": "f1c6a261d0abb102d3ea269511e616ea13d0765067161b3eb98835c892031cbb",
         "lib/unitTracker.js": "d74c4b9042e409e9d516403d54792350182b24945e2b4a8fcad13ddf5934c2ff",
-        "manifest.json": "b5b0e4a83fb5f74be0151839b1eb42783973dc8aa097b7fd01a6fa5b61f5f2d6",
+        "manifest.json": "63dc2bbeeed10832595e7fbe3ee3f68b62553125769ce29781eeda5a8a1f13fa",
         "node_modules/fast-deep-equal/LICENSE": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
         "node_modules/fast-deep-equal/README.md": "ada32c1b53bd74640a22806e99b25c2b8ab2946eed338f325114be87bd5b9fce",
         "node_modules/fast-deep-equal/es6/index.d.ts": "6088db10b4d7657ea7c69e46c9ef7c6bb507afc2d1c210c6934e31c638cfc500",
