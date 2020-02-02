@@ -1,8 +1,9 @@
 {
 	"enableCommands": true,
 	"customCommandTag": "",
-	"enableModMessages": true,
-	"debug": false,
+	"interactiveMode": true,
+	"debugMode": false,
+	"applyTriggers": true,
 	"classBasedPresets": true,
-	"applyTriggers": true
+	"trackPresetsChanges": true
 }
