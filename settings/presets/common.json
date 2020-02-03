@@ -3,8 +3,7 @@
 		"default": "default",
 		"triggerGuardians": "default",
 		"triggerDungeons": {
-			"all": "default",
-			"vanigayId": "vanigay"
+			"all": "default"
 		},
 		"triggerCU": "default",
 		"triggerBG": "default",
@@ -16,7 +15,7 @@
 		"blockUselessPackets": false,
 		"blockAnnoyingScreenMessages": false,
 		"blockNpcsDeathAnimations": false,
-		"blockAchievementSpamInCombat": false,
+		"blockAchievementsInCombat": false,
 		"blockInventoryInCombat": false,
 		"blockHuntingRewardsBuffs": false,
 		"blockShapeChangeBuffs": false,
@@ -33,12 +32,12 @@
 		"blockOwnSummons": false,
 		"blockAreaSummons": false,
 		"blockCollections": false,
-		"blockProjectiles": false,
 		"blockAdditionalSkillEffects": false,
 		"blockAdditionalSkillEffectsOptions": {
 			"own": false,
 			"players": false
 		},
+		"blockProjectiles": false,
 		"blockProjectilesOptions": {
 			"players": true
 		},
@@ -55,7 +54,8 @@
 		"blockPlayers": false,
 		"blockPlayersOptions": {
 			"all": false,
-			"class": []
+			"class": [],
+			"name": []
 		}
 	}
 }

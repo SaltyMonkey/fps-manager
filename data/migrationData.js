@@ -5,9 +5,9 @@ const DefaultSettings = {
 	"customCommandTag": "",
 	"interactiveMode": true,
 	"debugMode": false,
-	"applyTriggers": true,
-	"classBasedPresets": true,
-	"trackPresetsChanges": true
+	"classBasedPresets": false,
+	"applyTriggers": false,
+	"trackPresetsChanges": false
 };
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {

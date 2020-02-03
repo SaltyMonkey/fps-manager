@@ -3,7 +3,7 @@
 	"customCommandTag": "",
 	"interactiveMode": true,
 	"debugMode": false,
-	"applyTriggers": true,
 	"classBasedPresets": true,
+	"applyTriggers": true,
 	"trackPresetsChanges": true
 }
