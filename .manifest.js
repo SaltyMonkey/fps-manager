@@ -6,8 +6,8 @@
 // ignore these files for making manifest
 const IGNORED_FILES = [
 	"package-lock.json",
-	"module.json",
 	"manifest.json",
+	"settings.json",
 	"manifest-generator.js",
 	"manifest-generator.bat",
 	"manifest-generator.exe",
@@ -55,11 +55,14 @@ modulejson.disableAutoUpdate = false;
 
 modulejson.name = "fps-manager";
 modulejson.options = {
-	niceName: "FPM",
-	guiName: "FPS Manager",
+	"niceName": "FPM",
+	"guiName": "FPS Manager",
+	"settingsVersion": 1,
+	"settingsFile": "./settings.json",
+	"settingsMigrator": "./data/migrationData.js"
 };
 modulejson.author = "SaltyMonkey";
-modulejson.description = "FPS Manager is modern and extremely customizable module for Tera Toolbox which can help to solve annoynce by some ingame messages and fps drops.";
+modulejson.description = "FPS Manager is modern and extremely customizable module for Tera Toolbox which can help to solve annoyance by some ingame messages and fps drops.";
 modulejson.servers = ["https://raw.githubusercontent.com/SaltyMonkey/fps-manager/master/"];
 modulejson.supportUrl = ["https://github.com/SaltyMonkey/fps-manager/issues"];
 
@@ -141,7 +144,7 @@ function jsonify(obj) {
 	obj = JSON.stringify(obj, null, "    ");
 	let lists = obj.match(/\[[^]+?\].*/igm);
 	if (lists) for (let list of lists) {
-		obj = obj.substring(0,obj.indexOf(list)) + list.replace(/[ \n\t]*/igm, "") + obj.substring(obj.indexOf(list) + list.length);
+		obj = obj.substring(0, obj.indexOf(list)) + list.replace(/[ \n\t]*/igm, "") + obj.substring(obj.indexOf(list) + list.length);
 	}
 	return obj;
 }
