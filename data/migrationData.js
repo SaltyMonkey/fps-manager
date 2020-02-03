@@ -13,7 +13,7 @@ const DefaultSettings = {
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {
 	if (from_ver === undefined) {
 		// Migrate legacy config file
-		return {...DefaultSettings, ...settings};
+		return { ...DefaultSettings, ...settings };
 	} else if (from_ver === null) {
 		// No config file exists, use default settings
 		return DefaultSettings;

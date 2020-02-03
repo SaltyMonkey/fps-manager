@@ -133,5 +133,11 @@
 	},
 	"S_USER_LOCATION_IN_ACTION": {
 		"default": 2
+	},
+	"S_MOUNT_VEHICLE": {
+		"default": 2
+	},
+	"S_UNMOUNT_VEHICLE": {
+		"default": 2
 	}
 }
