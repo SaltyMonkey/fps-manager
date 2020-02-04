@@ -1,18 +1,18 @@
 {
     "files": {
         "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-        "README.md": "933aa9f92cd3a282ed66ce53e4877f4d697f35209d9c61b9a494b48821d094a0",
+        "README.md": "be86e5aacb62a725f5cb49aaeebde0f21a9077c0b3ba270af3927a6fbb500899",
         "data/migrationData.js": "2a5b00c748f0ce04e23800d04b053f005bad58b327f31317d2e58fd3340aba1e",
         "data/protoData.json": "25f1579d4d485047ce796042ba7e14bd29451eb3a5faff866eba99dfcaa7758e",
-        "data/staticData.json": "f98ed6b00785b72fc362e3545a1fcac76933335d7b9348051410f2a0163ef679",
+        "data/staticData.json": "58d4d156ee20e5542be97580f935d4616aa06937c38ce416c2a13f92aba71752",
         "fpsManager.js": "9e460c4bbf1de314f10b780e3797d41a8f163612aec8526cf04330d184a94e98",
-        "lib/helpers/enums.js": "012a02a0b41e0cd2735af764ae1b0643b633b4327e4c61ce849105fa2e9ec9dc",
+        "lib/helpers/enums.js": "2a6109100af91c24d8f638e5652a3ab74315c972c4daba0834cc3ed97fa57112",
         "lib/helpers/utils.js": "e413a0354242071c873f2615a7668b27bdc9209fe78770cf8d5607d58011c120",
         "lib/helpers/watchdog.js": "0d0fd2f7c3e9bfff3630e6ee376979e5215bb9fda4dfee4e617a8b88289811ba",
-        "lib/unitControl.js": "1431c6c6cc2575dea0901783990dc5910368342653ea0867c8faa0bd64208e9b",
-        "lib/unitFps.js": "16b2ed8c3f097e2b5280fc6217b53799ce3345fb021b6586ca8025f99362a4e8",
+        "lib/unitControl.js": "3d83b06094870aef3314ebfeb29482ce1b8089666648ee1b880c657de9cbc6c6",
+        "lib/unitFps.js": "cbad8b17ffcb0b68c8f16fea8f6bbf9b9e78e1b61f1cdecfc35dba8204d50838",
         "lib/unitProto.js": "eb5df2672912f68d52ea1bf183be9814612ab45ac662ba38b6687ce5bd4d6138",
-        "lib/unitState.js": "f23d9c70ca0e26f5ad2ef25fdd8825b6e70bc703c9c9c77dfa584d85b60a3f90",
+        "lib/unitState.js": "8b58780bd66a2d887d99275aa2f21e7a0b712e8e68fd081ba5ea445d2ac7272e",
         "lib/unitTracker.js": "7ef7c771171b50ad3c3d9041f7d5b50c2c4a8e3037279ba8e3772d1b5d5ecccb",
         "manifest.json": "63dc2bbeeed10832595e7fbe3ee3f68b62553125769ce29781eeda5a8a1f13fa",
         "module.json": "04697bdbf294c8178c0d2ad7cb54188f829c165c0ca04a6608e832ab6bb88122",
@@ -33,7 +33,7 @@
         "node_modules/rfdc/readme.md": "67da311a12dd2d655fc656bafd5d5f0345cd322667bb58201623b468d195bf05",
         "node_modules/rfdc/test/index.js": "89c8b6631df835a01305a62ebf6ae94feb4381bcc8083fcd30bd4a394f3e5e17",
         "package.json": "ee7789302749d6de0b4a3fc76d4d7d96708262ca6125527c87741aa020096a67",
-        "settings/presets/common.json": "fd406dc7ee30af47cc54301c62ac356512cdc7c4b2ee9ae937942b5fb50e15c7",
+        "settings/presets/common.json": "86974d510565ac9cddc399ebd0c81cd07b60924a60a1a04aaf79b4062cf70d6c",
         "settings/settings.json": "74bd662576b043ffe240d917437b4c8b9e1bb845d39813be82e77923e2f4b637"
     }
 }
