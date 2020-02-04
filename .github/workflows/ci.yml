@@ -24,5 +24,5 @@ jobs:
           git config --global core.autocrlf false
           git config --global user.name 'SaltyMonkey'
           git config --global user.email 'SaltyMonkey@users.noreply.github.com'
-          git commit -am "[CI] Automatic commit"
+          git commit -am "[CI] Automatic commit and lint"
           git push
