@@ -1,5 +1,5 @@
 {
-  "name": "ngfps",
+  "name": "FPS-Manager",
   "version": "0.0.1",
   "description": "",
   "main": "./fpsManager.js",
@@ -8,6 +8,7 @@
   },
   "scripts": {
     "lint": "eslint **/*.js",
+    "lint-info": "eslint -h",
     "version": "auto-changelog --package && git add CHANGELOG.md",
     "manifest": "node ./.manifest.js"
   },
