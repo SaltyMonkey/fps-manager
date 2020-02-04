@@ -21,7 +21,7 @@
 const msg = {
 	"proxyWarning": "Proxy runtime detected. Proper work not guaranteed.",
 	"runtimeWarning": "Outdated runtime detected. Proper work not guaranteed."
-	"runtimeOld": "Runtime is so old"
+	"runtimeOlds": "Runtime is so old"
 };
 
 const units = [

@@ -12,13 +12,14 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12
-    - name: Lint source code
-      env:
-        CI: true
+    - name: Install deps
       run: |
           npm ci
-          ./node_modules/.bin/eslint **/*.js --fix
-          npm ci --only=production
+          npm install -g eslint
+    - name: Lint
+      run: npm run lint
+    - name: Cleanup
+      run: npm ci --only=production
     - name: Generate manifest
       run: npm run manifest
     - name: Commit changes
