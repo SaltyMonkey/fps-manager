@@ -13,9 +13,7 @@ jobs:
       with:
         node-version: 12
     - name: Install deps
-      run: |
-          npm ci
-          npm install -g eslint
+      run: npm install
     - name: Lint
       run: npm run lint
     - name: Cleanup
