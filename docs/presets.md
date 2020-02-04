@@ -16,7 +16,7 @@ Preset structure MUST HAVE `directives` `object` and `modes` `object`.
 
 Simplified example below:
 
-```json
+```JS
 {
 	
 	"directives": {
@@ -40,7 +40,7 @@ Value must be valid key from `modes` object.
 
 Simplified example with explanation (WARNING: you can't place comments as below in real file).
 
-```json
+```JS
 {
 	...
 	"directives": {
@@ -67,14 +67,14 @@ Every `modes` field explains `MODE NAME` and contains ` desired options` as obje
 Value must be valid key from `modes` object.
 Simplified example below: (WARNING: you can't place comments as below in real file)
 
-```JSON
+```JS
 {	...
 
 	"modes": {
 		"basicMode": { //mode name, can be applied in directives (look example above)
 			...
 		},
-		"myCustomModeName" : { //custom user mode name, can be applied in directives (look example above) or called with commands (as example: /8 fm m myCustomModeName)
+		"myCustomModeName" : { //custom user mode name, called with commands as example: /8 fm m myCustomModeName)
 			...
 		}
 	}
