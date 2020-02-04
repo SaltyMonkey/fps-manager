@@ -21,6 +21,7 @@
 const msg = {
 	"proxyWarning": "Proxy runtime detected. Proper work not guaranteed.",
 	"runtimeWarning": "Outdated runtime detected. Proper work not guaranteed."
+	"runtimeOld": "Runtime is so old"
 };
 
 const units = [
@@ -47,7 +48,7 @@ class FpsManager {
 			mod.error(msg.proxyWarning);
 		// eslint-disable-next-line node/no-missing-require
 		else if(!require("tera-data-parser").types)
-			mod.error(msg.runtimeWarning);
+			mod.error(msg.runtimeOld);
 		
 		mod.game.initialize("me");
 
