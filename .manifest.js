@@ -3,15 +3,16 @@ const crypto = require("crypto");
 const fs = require("fs");
 const path = require("path");
 
-const IGNORED_FILES = ["manifest.json", "settings.json", "manifest-generator.js", "manifest-generator.bat", "manifest-generator.exe", "node.exe"];
+const IGNORED_FILES = ["manifest.json", "manifest-generator.js", "manifest-generator.bat", "manifest-generator.exe", "node.exe"];
 const IGNORED_START_SYMBOL = [".", "_"];
 
 //load predefined manifest
 let manifest = undefined;
 try {
-	manifest = require("manifest.json");
-	if (manifest && typeof manifest === "object")
+	manifest = require("./manifest.json");
+	if (manifest && typeof manifest === "object") {
 		if (!manifest.files) manifest.files = {};
+	}
 	else manifest = { "files": {} };
 }
 catch (err) { manifest = { "files": {} };}

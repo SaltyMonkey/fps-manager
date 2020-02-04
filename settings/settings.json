@@ -1,7 +1,7 @@
 {
 	"registerCommands": true,
 	"customCommandsTag": "",
-	"interactive": true,
+	"interactive": false,
 	"debugMode": false,
 	"classBasedPresets": true,
 	"enableEvents": true,
