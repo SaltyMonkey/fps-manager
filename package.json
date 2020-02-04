@@ -1,5 +1,5 @@
 {
-  "name": "FPS-Manager",
+  "name": "fps-manager",
   "version": "0.0.1",
   "description": "",
   "main": "./fpsManager.js",
