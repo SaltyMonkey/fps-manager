@@ -18,7 +18,6 @@ jobs:
       run: |
           npm ci
           npm run lint
-          npm run lint-info
           npm ci --only=production
     - name: Generate manifest
       run: npm run manifest

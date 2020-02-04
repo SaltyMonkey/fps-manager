@@ -7,8 +7,7 @@
     "node": ">=12.4.0"
   },
   "scripts": {
-    "lint": "eslint **/*.js",
-    "lint-info": "eslint -h",
+    "lint": "./node_modules/.bin/eslint **/*.js --fix",
     "version": "auto-changelog --package && git add CHANGELOG.md",
     "manifest": "node ./.manifest.js"
   },
