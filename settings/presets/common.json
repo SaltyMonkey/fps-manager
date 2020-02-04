@@ -24,14 +24,17 @@
 		"blockShakeEffects": false,
 		"blockAreaHits": false,
 		"blockOwnHits": false,
-		"blockDamageNumbers": false,
-		"blockHpPopups": false,
-		"blockMpPopups": false,
 		"blockOwnServants": false,
 		"blockAreaServants": false,
 		"blockOwnSummons": false,
 		"blockAreaSummons": false,
 		"blockCollections": false,
+		"blockNumbersPopups": false,
+		"blockNumbersPopupsOptions": {
+			"hp": false,
+			"mp": false,
+			"damage": false
+		},
 		"blockAdditionalSkillEffects": false,
 		"blockAdditionalSkillEffectsOptions": {
 			"own": false,

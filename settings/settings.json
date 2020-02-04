@@ -1,9 +1,9 @@
 {
-	"enableCommands": true,
-	"customCommandTag": "",
-	"interactiveMode": true,
+	"registerCommands": true,
+	"customCommandsTag": "",
+	"interactive": true,
 	"debugMode": false,
 	"classBasedPresets": true,
-	"applyTriggers": true,
+	"enableEvents": true,
 	"trackPresetsChanges": true
 }

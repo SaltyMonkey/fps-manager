@@ -12,6 +12,11 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12
+    - name: Lint source code
+      run: |
+          npm ci
+          npm run lint
+          npm ci --only=production
     - name: Generate manifest
       run: npm run manifest
     - name: Commit changes
@@ -19,5 +24,5 @@ jobs:
           git config --global core.autocrlf false
           git config --global user.name 'SaltyMonkey'
           git config --global user.email 'SaltyMonkey@users.noreply.github.com'
-          git commit -am "Automated manifest update"
+          git commit -am "[CI] Automatic commit"
           git push
