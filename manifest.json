@@ -8,7 +8,7 @@
 		"docs/commands.md": "447f8f5b7092d98bf4338f724ab431006864c282c7ef5cc888592124b310b1d6",
 		"docs/presets.md": "469a2b0870651ecc1af4e66d236e1d74e08eb699cc0a8f29d9eee5a91909ebee",
 		"docs/settings.md": "e4dc5e4a18deaae6936d9ed8b46b3f70d3de32139d4c0f95f9afea046486d68e",
-		"fpsManager.js": "9e460c4bbf1de314f10b780e3797d41a8f163612aec8526cf04330d184a94e98",
+		"fpsManager.js": "d45d572982bc298e5d5be29ae07a08652a14fa3763408e7bc463f0fa0c317209",
 		"lib/helpers/enums.js": "2a6109100af91c24d8f638e5652a3ab74315c972c4daba0834cc3ed97fa57112",
 		"lib/helpers/utils.js": "e413a0354242071c873f2615a7668b27bdc9209fe78770cf8d5607d58011c120",
 		"lib/helpers/watchdog.js": "0d0fd2f7c3e9bfff3630e6ee376979e5215bb9fda4dfee4e617a8b88289811ba",
@@ -17,7 +17,6 @@
 		"lib/unitProto.js": "eb5df2672912f68d52ea1bf183be9814612ab45ac662ba38b6687ce5bd4d6138",
 		"lib/unitState.js": "de851d84676816da652def9d3bac364a79acc46e570aeb5f989942d8822d57fc",
 		"lib/unitTracker.js": "7ef7c771171b50ad3c3d9041f7d5b50c2c4a8e3037279ba8e3772d1b5d5ecccb",
-		"manifest.json": "63dc2bbeeed10832595e7fbe3ee3f68b62553125769ce29781eeda5a8a1f13fa",
 		"module.json": "04697bdbf294c8178c0d2ad7cb54188f829c165c0ca04a6608e832ab6bb88122",
 		"node_modules/fast-deep-equal/LICENSE": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
 		"node_modules/fast-deep-equal/README.md": "ada32c1b53bd74640a22806e99b25c2b8ab2946eed338f325114be87bd5b9fce",
@@ -35,14 +34,8 @@
 		"node_modules/rfdc/package.json": "88e323621b6835ca2b980ab1d7507f49a2b63f4c8d3301d010640de363694bd3",
 		"node_modules/rfdc/readme.md": "67da311a12dd2d655fc656bafd5d5f0345cd322667bb58201623b468d195bf05",
 		"node_modules/rfdc/test/index.js": "89c8b6631df835a01305a62ebf6ae94feb4381bcc8083fcd30bd4a394f3e5e17",
+		"package-lock.json": "8144ce4f835c870e89d7b86960428bb144fc0976b7fe08ca0259c916b110a1f8",
 		"package.json": "ee7789302749d6de0b4a3fc76d4d7d96708262ca6125527c87741aa020096a67",
-		"settings/presets/common.json": {
-			"overwrite": false,
-			"hash": "b7336ffddf763895537d8ad6992c3aeec5f88ddf8848eecdfd56d421bf2b7529"
-		},
-		"settings/settings.json": {
-			"overwrite": false,
-			"hash": "74bd662576b043ffe240d917437b4c8b9e1bb845d39813be82e77923e2f4b637"
-		}
+		"settings/presets/common.json": "b7336ffddf763895537d8ad6992c3aeec5f88ddf8848eecdfd56d421bf2b7529"
 	}
 }
