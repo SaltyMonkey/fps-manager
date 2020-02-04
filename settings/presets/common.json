@@ -9,56 +9,58 @@
 		"triggerBG": "default",
 		"triggerOW": "default"
 	},
-	"default": {
-		"throttleSomePackets": false,
-		"blockCustomAppearanceChanges": false,
-		"blockUselessPackets": false,
-		"blockAnnoyingScreenMessages": false,
-		"blockNpcsDeathAnimations": false,
-		"blockAchievementsInCombat": false,
-		"blockInventoryInCombat": false,
-		"blockHuntingRewardsBuffs": false,
-		"blockShapeChangeBuffs": false,
-		"blockOnScreenEffectsBuffs": false,
-		"blockAreaBuffs": false,
-		"blockShakeEffects": false,
-		"blockAreaHits": false,
-		"blockOwnHits": false,
-		"blockOwnServants": false,
-		"blockAreaServants": false,
-		"blockOwnSummons": false,
-		"blockAreaSummons": false,
-		"blockCollections": false,
-		"blockNumbersPopups": false,
-		"blockNumbersPopupsOptions": {
-			"hp": false,
-			"mp": false,
-			"damage": false
-		},
-		"blockAdditionalSkillEffects": false,
-		"blockAdditionalSkillEffectsOptions": {
-			"own": false,
-			"players": false
-		},
-		"blockProjectiles": false,
-		"blockProjectilesOptions": {
-			"players": true
-		},
-		"blockDropItems": false,
-		"blockDropItemsOptions": {
-			"all": false,
-			"templateId": []
-		},
-		"blockNpcs": false,
-		"blockNpcsOptions": {
-			"templateId": [],
-			"huntingZoneId": []
-		},
-		"blockPlayers": false,
-		"blockPlayersOptions": {
-			"all": false,
-			"class": [],
-			"name": []
+	"modes": {
+		"default": {
+			"throttleSomePackets": false,
+			"blockCustomAppearanceChanges": false,
+			"blockUselessPackets": false,
+			"blockAnnoyingScreenMessages": false,
+			"blockNpcsDeathAnimations": false,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockHuntingRewardsBuffs": false,
+			"blockShapeChangeBuffs": false,
+			"blockOnScreenEffectsBuffs": false,
+			"blockAreaBuffs": false,
+			"blockShakeEffects": false,
+			"blockAreaHits": false,
+			"blockOwnHits": false,
+			"blockOwnServants": false,
+			"blockAreaServants": false,
+			"blockOwnSummons": false,
+			"blockAreaSummons": false,
+			"blockCollections": false,
+			"blockNumbersPopups": false,
+			"blockNumbersPopupsOptions": {
+				"hp": false,
+				"mp": false,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": false,
+			"blockAdditionalSkillEffectsOptions": {
+				"own": false,
+				"players": false
+			},
+			"blockProjectiles": false,
+			"blockProjectilesOptions": {
+				"players": true
+			},
+			"blockDropItems": false,
+			"blockDropItemsOptions": {
+				"all": false,
+				"templateId": []
+			},
+			"blockNpcs": false,
+			"blockNpcsOptions": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": false,
+			"blockPlayersOptions": {
+				"all": false,
+				"class": [],
+				"name": []
+			}
 		}
 	}
 }

@@ -10,6 +10,23 @@ Path for preset folder: `<modfolder>/settings/presets/`
 * `Mode` - concrete set of setting
 * `Directives` - service part in every `preset`. Describes started point, and events behavior.
 
+## Load process:
+
+### Basics:
+
+FPS Manager must have at least 1 preset installed; if zero presets detected then mod will be not able to load, exception will be raised. By default `preset` with name `common` will be activated for `all classes`. YOU MUST KEEP THIS PRESET JUST AS FAILOVER. `Presets` must be placed  in folder `<modfolder>/settings/presets/` and have proper file names (look Naming explanation below).
+
+If FPS Manager configured in options to support `class based presets` it will try load preset for your class firstly, after, if failed, will use `common` one.
+Example: you can create custom preset for your `warrior` with custom modes, another classes will use `common` preset. 
+
+### Naming:
+
+FPS Manager using internal client data instead of hardcoded strings and it leads to some differences in game class naming scheme.
+
+|  Expected preset name         | Game class           |
+| ------------------------------| ---------------------|
+
+
 ## `Preset` structure
 
 Preset structure MUST HAVE `directives` `object` and `modes` `object`.
@@ -32,7 +49,7 @@ Simplified example below:
 }
 ```
 
-### `directives` object fields
+### `directives` structure
 
 Every `directives` field except `default` can be removed or have value `false` - leads to "no jobs needed by event" state.
 
@@ -59,7 +76,7 @@ Simplified example with explanation (WARNING: you can't place comments as below 
 }
 ```
 
-### `modes` object fields
+### `modes` structure
 
 Every `modes` field explains `MODE NAME` and contains ` desired options` as object. This name can be used in in-game commands to forcefully switch mode and can be added to directives as value for options.
 
