@@ -21,11 +21,11 @@ Example: you can create custom preset for your `warrior` with custom modes, anot
 
 ### Naming:
 
-FPS Manager using internal client data instead of hardcoded strings and it leads to some differences in game class naming scheme.
+FPS Manager using internal client data instead of hardcoded strings and it leads to some differences in game class naming scheme. Presets MUST HAVE names from expected preset names list.
+
 
 |  Expected preset name         | Game class           |
 | ------------------------------| ---------------------|
-
 
 ## `Preset` structure
 

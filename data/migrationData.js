@@ -1,12 +1,14 @@
 "use strict";
 
 const DefaultSettings = {
-	"enableCommands": true,
-	"customCommandTag": "",
-	"interactiveMode": true,
+	"registerCommands": true,
+	"customCommandsTag": "",
+	"registerUI": false,
+	"registerFastAccessUI": false,
+	"interactive": false,
 	"debugMode": false,
 	"classBasedPresets": false,
-	"applyTriggers": false,
+	"enableEvents": false,
 	"trackPresetsChanges": false
 };
 

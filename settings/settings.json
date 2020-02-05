@@ -1,9 +1,11 @@
 {
 	"registerCommands": true,
 	"customCommandsTag": "",
+	"registerUI": false,
+	"registerFastAccessUI": false,
 	"interactive": false,
 	"debugMode": false,
-	"classBasedPresets": true,
-	"enableEvents": true,
-	"trackPresetsChanges": true
+	"classBasedPresets": false,
+	"enableEvents": false,
+	"trackPresetsChanges": false
 }

@@ -58,6 +58,7 @@
 			"blockPlayers": false,
 			"blockPlayersOptions": {
 				"all": false,
+				"exceptParty": false,
 				"class": [],
 				"name": []
 			}
