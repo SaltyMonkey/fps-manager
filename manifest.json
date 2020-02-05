@@ -33,8 +33,8 @@
 		"node_modules/rfdc/package.json": "88e323621b6835ca2b980ab1d7507f49a2b63f4c8d3301d010640de363694bd3",
 		"node_modules/rfdc/readme.md": "67da311a12dd2d655fc656bafd5d5f0345cd322667bb58201623b468d195bf05",
 		"node_modules/rfdc/test/index.js": "89c8b6631df835a01305a62ebf6ae94feb4381bcc8083fcd30bd4a394f3e5e17",
-		"package-lock.json": "03d52d2d275db09d4d9e9d976a3de8474127c77cc1a598b5bc4c300255c67586",
-		"package.json": "16829ca76962990d40745690164ffbcad03f281c3abccd2096a85882b908201a",
+		"package-lock.json": "3893355d8dc66bd31a1344e804af4c809344074079b2cbbf641abfa2e5d77fce",
+		"package.json": "4b01e6db77d07144a0ee9f919c1fe6a5387359418312003f8ffd8192fb4861b6",
 		"settings/presets/common.json": {
 			"overwrite": false,
 			"hash": "611db8a27cb0c3c8d9e99b228b7753de9b866876cd5b2ceeb954f8dc5390d7b0"
@@ -45,7 +45,12 @@
 		},
 		"data/UI/fastaccess.html": "51e75ee6287788ec9b40be80919f93115eb36f0231102a9decc925e84645ff8f",
 		"data/UI/fastaccess.js": "3c921ce8e4ca55e002920484a90c7523876f3e25f4304b4797a298b5600892d5",
-		"lib/unitCommands.js": "84b165b46d2712dcd6f6dadb4ddb551458aa0334714ac0d47453946fd7a7f262",
-		"lib/unitUI.js": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+		"lib/unitCommands.js": "1f14ffe592dc719c74e5bbb01a1b243582bdd70090a978ccfd368b69db5f2d38",
+		"lib/unitUI.js": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
+		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
+		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
+		"node_modules/string-similarity/src/index.js": "941fc8276576aaa2952d4731d90fdc4b7fb2bb3871646e6cd4da47823c432520",
+		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31"
 	}
 }
