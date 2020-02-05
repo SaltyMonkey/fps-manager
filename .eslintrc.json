@@ -13,8 +13,12 @@
         "ecmaVersion": 2020
     },
     "rules": {
+        "no-await-in-loop": ["error"],
+        "no-shadow": ["error"],
+        "no-redeclare": ["warn"],
         "arrow-spacing": ["warn"],
         "init-declarations": ["error", "always"],
+        "no-setter-return": ["warn"],
         "no-duplicate-imports": [
             "warn"
         ],
@@ -77,7 +81,7 @@
             "error"
         ],
         "no-spaced-func": [
-            "error"
+            "warn"
         ],
         "no-confusing-arrow": [
             "error"
@@ -108,13 +112,13 @@
             "error"
         ],
         "no-floating-decimal": [
-            "warn"
-        ],
-        "no-multi-spaces": [
             "error"
         ],
-        "guard-for-in": [
+        "no-multi-spaces": [
             "warn"
+        ],
+        "guard-for-in": [
+            "error"
         ],
         "yoda" : [
             "error"
@@ -132,7 +136,8 @@
             "warn"
         ],
         "func-call-spacing": [
-            "error"
-        ]
+            "warn"
+        ],
+        "no-eval": ["error"]
     }
 }
