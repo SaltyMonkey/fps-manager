@@ -1,19 +1,18 @@
 {
 	"files": {
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"README.md": "be86e5aacb62a725f5cb49aaeebde0f21a9077c0b3ba270af3927a6fbb500899",
-		"data/migrationData.js": "2a5b00c748f0ce04e23800d04b053f005bad58b327f31317d2e58fd3340aba1e",
+		"README.md": "176182ec3be084794cd3c90411e5b0cc92a3d268f05ef30c8f65c4cec8aa4c85",
+		"data/migrationData.js": "efc09a3f65a66e849d9ac7e65aee7f3722ff5de1dc1e2fd8c2087edb7fddc6fb",
 		"data/protoData.json": "25f1579d4d485047ce796042ba7e14bd29451eb3a5faff866eba99dfcaa7758e",
 		"data/staticData.json": "58d4d156ee20e5542be97580f935d4616aa06937c38ce416c2a13f92aba71752",
-		"docs/commands.md": "447f8f5b7092d98bf4338f724ab431006864c282c7ef5cc888592124b310b1d6",
-		"docs/presets.md": "469a2b0870651ecc1af4e66d236e1d74e08eb699cc0a8f29d9eee5a91909ebee",
-		"docs/settings.md": "e4dc5e4a18deaae6936d9ed8b46b3f70d3de32139d4c0f95f9afea046486d68e",
-		"fpsManager.js": "f8b75916c859864489380d840c0a2046e806a27ba8b649ec7ca5cd4c3c5b38f8",
+		"docs/commands.md": "89ce5525cafbf959cc77a61195432a5b21f11aa07a39667641b6e99c4567e9fc",
+		"docs/presets.md": "7abd28b2e6248d7b4d21ac3d93c86218aee2a9b7e6445fd28d4c34dacf8781a7",
+		"docs/settings.md": "3eb436247de5ad195daa464d80e82e63974336dde549ca7e93a7b0eeb61be9fe",
+		"fpsManager.js": "9913189163a9c1100b387e4702617574c4260eca84f87419b3060e547a9cc92d",
 		"lib/helpers/enums.js": "2a6109100af91c24d8f638e5652a3ab74315c972c4daba0834cc3ed97fa57112",
 		"lib/helpers/utils.js": "e413a0354242071c873f2615a7668b27bdc9209fe78770cf8d5607d58011c120",
-		"lib/helpers/watchdog.js": "0d0fd2f7c3e9bfff3630e6ee376979e5215bb9fda4dfee4e617a8b88289811ba",
-		"lib/unitControl.js": "84b165b46d2712dcd6f6dadb4ddb551458aa0334714ac0d47453946fd7a7f262",
-		"lib/unitFps.js": "e945807c0ca6afffc5d590e0d6cdc5b8b7be45bc1219c6b08a58fa91a005b50a",
+		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
+		"lib/unitFps.js": "bf0ffcb16e64da333be2c5337aad1677c11e00df6361d5f06bc5fdfbdba2c176",
 		"lib/unitProto.js": "eb5df2672912f68d52ea1bf183be9814612ab45ac662ba38b6687ce5bd4d6138",
 		"lib/unitState.js": "de851d84676816da652def9d3bac364a79acc46e570aeb5f989942d8822d57fc",
 		"lib/unitTracker.js": "7ef7c771171b50ad3c3d9041f7d5b50c2c4a8e3037279ba8e3772d1b5d5ecccb",
@@ -38,11 +37,15 @@
 		"package.json": "16829ca76962990d40745690164ffbcad03f281c3abccd2096a85882b908201a",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "b7336ffddf763895537d8ad6992c3aeec5f88ddf8848eecdfd56d421bf2b7529"
+			"hash": "611db8a27cb0c3c8d9e99b228b7753de9b866876cd5b2ceeb954f8dc5390d7b0"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
-			"hash": "422393b1bd8137e1f048aa433334ddb4086d2bb9ecb3481edf7be81d4732a831"
-		}
+			"hash": "7681c76bae04849060861366b3c525f40bcf82f5561d0413de19c846871a2d78"
+		},
+		"data/UI/fastaccess.html": "51e75ee6287788ec9b40be80919f93115eb36f0231102a9decc925e84645ff8f",
+		"data/UI/fastaccess.js": "3c921ce8e4ca55e002920484a90c7523876f3e25f4304b4797a298b5600892d5",
+		"lib/unitCommands.js": "84b165b46d2712dcd6f6dadb4ddb551458aa0334714ac0d47453946fd7a7f262",
+		"lib/unitUI.js": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 	}
 }
