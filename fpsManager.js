@@ -37,20 +37,21 @@ class FpsManager {
 		/** 
 		* @type {deps}
 		*/
-		let deps = {};
-		
+		let deps = { "mod": mod };
+
 		console.log("DEBUG: FpsManager -> constructor");
-		
+
 		//check compatibility (only warning atm)
-		if (mod.proxyAuthor !== "caali") 
+		if (mod.proxyAuthor !== "caali")
 			mod.error(msg.runtimeWarning);
-		else if(mod.proxyAuthor === "caali" && !mod.clientInterface) 
+		else if (mod.proxyAuthor === "caali" && !mod.clientInterface)
 			mod.error(msg.proxyWarning);
 		// eslint-disable-next-line node/no-missing-require
-		else if(!require("tera-data-parser").types)
+		else if (!require("tera-data-parser").types)
 			mod.error(msg.runtimeOld);
-		
+
 		mod.game.initialize("me");
+
 		units.forEach(unit => {
 			// eslint-disable-next-line no-magic-numbers
 			deps[unit[0]] = new unit[1](deps);
@@ -59,7 +60,7 @@ class FpsManager {
 		//just in case units will need custom destructors, register them
 		this.destructor = () => {
 			Object.keys(deps).forEach(key => {
-				if (typeof deps[key].destructor === "function") { deps[key].destructor(); }
+				if (key !== "mod" && typeof deps[key].destructor === "function") { deps[key].destructor(); }
 			});
 		};
 	}
