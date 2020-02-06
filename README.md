@@ -26,6 +26,30 @@ FPS Manager is modern and extremely customizable module for Tera Toolbox which c
 - Interactive messages (Want to know details about mod automation decisions? Just use interactive mode)
 - Manual mode with input prediction (can apply your custom mode in middle of combat EVEN IF YOU CAN'T REMEMBER EXACT MODE NAME OR LAZY TO WRITE MODE NAME FULLY)
 
+## Features (everything is configurable)
+
+- Throttle some repetitive packets to decrease amount of work in client
+- Block some outdated/irrelevant for gameplay packets
+- Block repetitive and irrelevant onscreen messages
+- Block visual change packets 
+- Block NPC death animation
+- Block inventory packets spam in combat
+- Block achievements packets spam in combat
+- Block ALL shake effects
+- Block gather nodes spawns
+- Block hits effects
+- Block buffs
+- Block onscreen numbers popups
+- Block damage numbers
+- Block secondary skill effects when possible
+- Block projectiles from skills
+- Block drop items
+- Block servants
+- Block summons
+- Block skills visuals
+- Block npc entities
+- Block players
+
 ## FAQ
 
 Q: Why this mod do not allow change settings individually?
