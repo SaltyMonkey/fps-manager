@@ -54,6 +54,13 @@
 				"me": false,
 				"area": false
 			},
+			"blockSkills": {
+				"class": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
 			"blockNpcs": {
 				"templateId": [],
 				"huntingZoneId": []
