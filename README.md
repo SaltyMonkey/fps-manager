@@ -24,7 +24,7 @@ FPS Manager is modern and extremely customizable module for Tera Toolbox which c
 - Custom modes (don't like predefined settings for configurations or they can't fit your gameplay? just rename everything or create personal configurations)
 - Optional commands (commands IS OPTIONAL and can be disabled in settings)
 - Interactive messages (Want to know details about mod automation decisions? Just use interactive mode)
-- Manual mode (can apply your custom settings in middle of combat - use advanced commands to overwrite automation)
+- Manual mode with input prediction (can apply your custom mode in middle of combat EVEN IF YOU CAN'T REMEMBER EXACT MODE NAME OR LAZY TO WRITE MODE NAME FULLY)
 
 ## FAQ
 
