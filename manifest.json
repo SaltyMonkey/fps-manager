@@ -12,7 +12,7 @@
 		"lib/helpers/enums.js": "ea4c8351ae6f2482ae77b4479b3041fc3d0e3f498d1637101815f88b9873a2d8",
 		"lib/helpers/utils.js": "7f7485fe9f44c6cf5589e4ec9133b1e92bf32dde3d3dadd31a1530b82c77c9e4",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
-		"lib/unitFps.js": "d9ea817759ccee0fbee04f4b811f9a304e34185e33b3f75af1f0ab4443633546",
+		"lib/unitFps.js": "d9d58cd082832e2529772702db413233c5a086bbd6a3c25db2f3ee440d6e3a6b",
 		"lib/unitProto.js": "a5e250e3e181399de4670e2fb39ff00718368d061ed5187840961969a3429d27",
 		"lib/unitState.js": "d19384b32058514ad1c4a8563f31da851abfe35e322bc2f1a75076bfdde68b5d",
 		"lib/unitTracker.js": "7ef7c771171b50ad3c3d9041f7d5b50c2c4a8e3037279ba8e3772d1b5d5ecccb",
@@ -37,7 +37,7 @@
 		"package.json": "4b01e6db77d07144a0ee9f919c1fe6a5387359418312003f8ffd8192fb4861b6",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "a72eb922124929a8db77493241f188bf881532a01651f9d691b04b4c345a3b9f"
+			"hash": "bbb3a553bf7839652e9e7b9acdd3469e4752d5bdab4bb3ffeae6777e46fb462c"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
