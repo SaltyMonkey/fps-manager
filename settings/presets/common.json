@@ -18,45 +18,47 @@
 			"blockNpcsDeathAnimations": false,
 			"blockAchievementsInCombat": false,
 			"blockInventoryInCombat": false,
-			"blockHuntingRewardsBuffs": false,
-			"blockShapeChangeBuffs": false,
-			"blockOnScreenEffectsBuffs": false,
-			"blockAreaBuffs": false,
 			"blockShakeEffects": false,
-			"blockAreaHits": false,
-			"blockOwnHits": false,
-			"blockOwnServants": false,
-			"blockAreaServants": false,
-			"blockOwnSummons": false,
-			"blockAreaSummons": false,
 			"blockCollections": false,
-			"blockNumbersPopups": false,
-			"blockNumbersPopupsOptions": {
+			"blockHits": {
+				"area": false,
+				"my": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"huntRewards": false,
+				"shapeChange": false,
+				"effects": false
+			},
+			"blockNumbersPopups": {
 				"hp": false,
 				"mp": false,
 				"damage": false
 			},
-			"blockAdditionalSkillEffects": false,
-			"blockAdditionalSkillEffectsOptions": {
+			"blockAdditionalSkillEffects": {
 				"own": false,
 				"players": false
 			},
-			"blockProjectiles": false,
-			"blockProjectilesOptions": {
+			"blockProjectiles": {
 				"players": true
 			},
-			"blockDropItems": false,
-			"blockDropItemsOptions": {
+			"blockDropItems": {
 				"all": false,
 				"templateId": []
 			},
-			"blockNpcs": false,
-			"blockNpcsOptions": {
+			"blockServants": {
+				"area": false,
+				"me": false
+			},
+			"blockSummons": {
+				"my": false,
+				"area": false
+			},
+			"blockNpcs": {
 				"templateId": [],
 				"huntingZoneId": []
 			},
-			"blockPlayers": false,
-			"blockPlayersOptions": {
+			"blockPlayers": {
 				"all": false,
 				"exceptParty": false,
 				"class": [],
