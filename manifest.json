@@ -4,15 +4,15 @@
 		"README.md": "fe3b260122592c497083d83a302426af2309f7973ae2f5c3c945df17d4d696eb",
 		"data/migrationData.js": "efc09a3f65a66e849d9ac7e65aee7f3722ff5de1dc1e2fd8c2087edb7fddc6fb",
 		"data/protoData.json": "25f1579d4d485047ce796042ba7e14bd29451eb3a5faff866eba99dfcaa7758e",
-		"data/staticData.json": "d871462184dccb6e578d188b3fd806a88743d05a447e2bd935e6df5dff77021d",
+		"data/staticData.json": "ec3ee9ef198e7cd62b97bac466556f06f7c762ed39cb832a0b346aaada612328",
 		"docs/commands.md": "a454e52a28d9e058009d61640c1da2d7e6ed27e8c36343e858af94bbf8dec536",
 		"docs/presets.md": "7abd28b2e6248d7b4d21ac3d93c86218aee2a9b7e6445fd28d4c34dacf8781a7",
 		"docs/settings.md": "3eb436247de5ad195daa464d80e82e63974336dde549ca7e93a7b0eeb61be9fe",
 		"fpsManager.js": "3a4cb37fc3b0881a3685bbe68c49d65b23a91395760595f3962a8bc6005fdf5b",
 		"lib/helpers/enums.js": "ea4c8351ae6f2482ae77b4479b3041fc3d0e3f498d1637101815f88b9873a2d8",
-		"lib/helpers/utils.js": "7f7485fe9f44c6cf5589e4ec9133b1e92bf32dde3d3dadd31a1530b82c77c9e4",
+		"lib/helpers/utils.js": "85290f6761effd1e5ae0cc7aa342b62e7a69466fee95350dea3403cc8138cfe8",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
-		"lib/unitFps.js": "560e08464e104d167b8048b6af14f4e05afaa665fb8d166a0d21f173c092b31a",
+		"lib/unitFps.js": "0afe682e2e1bc08e35de01e4ab110d32527be5904423642a42f23e4bcb5ee66d",
 		"lib/unitProto.js": "a5e250e3e181399de4670e2fb39ff00718368d061ed5187840961969a3429d27",
 		"lib/unitState.js": "d19384b32058514ad1c4a8563f31da851abfe35e322bc2f1a75076bfdde68b5d",
 		"lib/unitTracker.js": "7ef7c771171b50ad3c3d9041f7d5b50c2c4a8e3037279ba8e3772d1b5d5ecccb",
@@ -37,7 +37,7 @@
 		"package.json": "4b01e6db77d07144a0ee9f919c1fe6a5387359418312003f8ffd8192fb4861b6",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "bbb3a553bf7839652e9e7b9acdd3469e4752d5bdab4bb3ffeae6777e46fb462c"
+			"hash": "a9874c5e33d4f464a4b3b36e7359fd9f52c9518dd805431b704b26078889385b"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
