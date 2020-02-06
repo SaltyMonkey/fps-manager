@@ -10,7 +10,7 @@
 		"docs/settings.md": "3eb436247de5ad195daa464d80e82e63974336dde549ca7e93a7b0eeb61be9fe",
 		"fpsManager.js": "3a4cb37fc3b0881a3685bbe68c49d65b23a91395760595f3962a8bc6005fdf5b",
 		"lib/helpers/enums.js": "ea4c8351ae6f2482ae77b4479b3041fc3d0e3f498d1637101815f88b9873a2d8",
-		"lib/helpers/utils.js": "85290f6761effd1e5ae0cc7aa342b62e7a69466fee95350dea3403cc8138cfe8",
+		"lib/helpers/utils.js": "35140f5041ae1264816b36766385db10c5b7fbc54efd016ed97e8d8655318d6d",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
 		"lib/unitFps.js": "0afe682e2e1bc08e35de01e4ab110d32527be5904423642a42f23e4bcb5ee66d",
 		"lib/unitProto.js": "a5e250e3e181399de4670e2fb39ff00718368d061ed5187840961969a3429d27",
@@ -37,7 +37,7 @@
 		"package.json": "4b01e6db77d07144a0ee9f919c1fe6a5387359418312003f8ffd8192fb4861b6",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "a9874c5e33d4f464a4b3b36e7359fd9f52c9518dd805431b704b26078889385b"
+			"hash": "23a1442f20a829b02c90fbb4b6322c4fa204d73eef1bf1c0ea8071d435217394"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
