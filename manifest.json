@@ -1,11 +1,11 @@
 {
 	"files": {
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"README.md": "176182ec3be084794cd3c90411e5b0cc92a3d268f05ef30c8f65c4cec8aa4c85",
+		"README.md": "fe3b260122592c497083d83a302426af2309f7973ae2f5c3c945df17d4d696eb",
 		"data/migrationData.js": "efc09a3f65a66e849d9ac7e65aee7f3722ff5de1dc1e2fd8c2087edb7fddc6fb",
 		"data/protoData.json": "25f1579d4d485047ce796042ba7e14bd29451eb3a5faff866eba99dfcaa7758e",
 		"data/staticData.json": "d871462184dccb6e578d188b3fd806a88743d05a447e2bd935e6df5dff77021d",
-		"docs/commands.md": "89ce5525cafbf959cc77a61195432a5b21f11aa07a39667641b6e99c4567e9fc",
+		"docs/commands.md": "a454e52a28d9e058009d61640c1da2d7e6ed27e8c36343e858af94bbf8dec536",
 		"docs/presets.md": "7abd28b2e6248d7b4d21ac3d93c86218aee2a9b7e6445fd28d4c34dacf8781a7",
 		"docs/settings.md": "3eb436247de5ad195daa464d80e82e63974336dde549ca7e93a7b0eeb61be9fe",
 		"fpsManager.js": "3a4cb37fc3b0881a3685bbe68c49d65b23a91395760595f3962a8bc6005fdf5b",
@@ -45,7 +45,7 @@
 		},
 		"data/UI/fastaccess.html": "51e75ee6287788ec9b40be80919f93115eb36f0231102a9decc925e84645ff8f",
 		"data/UI/fastaccess.js": "3c921ce8e4ca55e002920484a90c7523876f3e25f4304b4797a298b5600892d5",
-		"lib/unitCommands.js": "1f14ffe592dc719c74e5bbb01a1b243582bdd70090a978ccfd368b69db5f2d38",
+		"lib/unitCommands.js": "e681647acddf49c0880ce753f53dfd6b572705600b7bbe61ce41183f20773d32",
 		"lib/unitUI.js": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
 		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
 		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
