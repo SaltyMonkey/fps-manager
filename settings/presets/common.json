@@ -22,7 +22,7 @@
 			"blockCollections": false,
 			"blockHits": {
 				"area": false,
-				"my": false
+				"me": false
 			},
 			"blockBuffs": {
 				"area": false,
@@ -51,7 +51,7 @@
 				"me": false
 			},
 			"blockSummons": {
-				"my": false,
+				"me": false,
 				"area": false
 			},
 			"blockNpcs": {
