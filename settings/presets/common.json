@@ -1,16 +1,16 @@
 {
 	"directives": {
-		"default": "default",
-		"triggerGuardians": "default",
+		"default": "0",
+		"triggerGuardians": "1",
 		"triggerDungeons": {
-			"all": "default"
+			"all": "2"
 		},
-		"triggerCU": "default",
-		"triggerBG": "default",
-		"triggerOW": "default"
+		"triggerCU": "1",
+		"triggerBG": "1",
+		"triggerOW": "0"
 	},
 	"modes": {
-		"default": {
+		"0": {
 			"throttleSomePackets": false,
 			"blockCustomAppearanceChanges": false,
 			"blockUselessPackets": false,
@@ -40,7 +40,7 @@
 				"players": false
 			},
 			"blockProjectiles": {
-				"players": true
+				"players": false
 			},
 			"blockDropItems": {
 				"all": false,
@@ -68,6 +68,129 @@
 			"blockPlayers": {
 				"all": false,
 				"exceptParty": false,
+				"class": [],
+				"name": []
+			}
+		},
+		"1": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": true,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": true,
+			"blockNpcsDeathAnimations": true,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockShakeEffects": true,
+			"blockCollections": false,
+			"blockHits": {
+				"area": true,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"huntRewards": true,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": false,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false,
+				"players": true
+			},
+			"blockProjectiles": {
+				"players": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": false,
+				"me": false
+			},
+			"blockSummons": {
+				"me": false,
+				"area": false
+			},
+			"blockSkills": {
+				"class": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": false,
+				"exceptParty": false,
+				"class": [],
+				"name": []
+			}
+		},
+		"2": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": true,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": true,
+			"blockNpcsDeathAnimations": true,
+			"blockAchievementsInCombat": true,
+			"blockInventoryInCombat": true,
+			"blockShakeEffects": true,
+			"blockCollections": true,
+			"blockHits": {
+				"area": true,
+				"me": true
+			},
+			"blockBuffs": {
+				"area": true,
+				"huntRewards": true,
+				"shapeChange": true,
+				"effects": true
+			},
+			"blockNumbersPopups": {
+				"hp": true,
+				"mp": true,
+				"damage": true
+			},
+			"blockAdditionalSkillEffects": {
+				"own": true,
+				"players": true
+			},
+			"blockProjectiles": {
+				"players": true
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true,
+				"me": false
+			},
+			"blockSummons": {
+				"me": true,
+				"area": true
+			},
+			"blockSkills": {
+				"class": [],
+				"rawId": [],
+				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": true,
 				"class": [],
 				"name": []
 			}
