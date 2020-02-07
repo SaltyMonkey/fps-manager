@@ -8,13 +8,13 @@
 		"docs/commands.md": "a454e52a28d9e058009d61640c1da2d7e6ed27e8c36343e858af94bbf8dec536",
 		"docs/presets.md": "7abd28b2e6248d7b4d21ac3d93c86218aee2a9b7e6445fd28d4c34dacf8781a7",
 		"docs/settings.md": "3eb436247de5ad195daa464d80e82e63974336dde549ca7e93a7b0eeb61be9fe",
-		"fpsManager.js": "3a4cb37fc3b0881a3685bbe68c49d65b23a91395760595f3962a8bc6005fdf5b",
+		"fpsManager.js": "3b6a968718e5830a61783528606684b270dbc0e3ed649d3b047e469887f7ca6e",
 		"lib/helpers/enums.js": "ea4c8351ae6f2482ae77b4479b3041fc3d0e3f498d1637101815f88b9873a2d8",
 		"lib/helpers/utils.js": "35140f5041ae1264816b36766385db10c5b7fbc54efd016ed97e8d8655318d6d",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
-		"lib/unitFps.js": "fd1db699fe2cb8ecee207cdf87151c2258a3286a68e22b5700f88144d350ea10",
-		"lib/unitProto.js": "a5e250e3e181399de4670e2fb39ff00718368d061ed5187840961969a3429d27",
-		"lib/unitState.js": "d19384b32058514ad1c4a8563f31da851abfe35e322bc2f1a75076bfdde68b5d",
+		"lib/unitFps.js": "9e9c818a1526ecf52a01e6e0befafc19e827b0b805b93e57427d9f78e23a8b01",
+		"lib/unitProto.js": "c5b5f22a78ff835ed71ebd39a3b2469c521b83cb7563aa605e05fa7429a93186",
+		"lib/unitState.js": "f3a19001a4f9e8aeb8810ea0e2189967932150661f5e24f4e0cff41c2d180612",
 		"lib/unitTracker.js": "7ef7c771171b50ad3c3d9041f7d5b50c2c4a8e3037279ba8e3772d1b5d5ecccb",
 		"module.json": "04697bdbf294c8178c0d2ad7cb54188f829c165c0ca04a6608e832ab6bb88122",
 		"node_modules/fast-deep-equal/LICENSE": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
@@ -45,12 +45,11 @@
 		},
 		"data/UI/fastaccess.html": "51e75ee6287788ec9b40be80919f93115eb36f0231102a9decc925e84645ff8f",
 		"data/UI/fastaccess.js": "3c921ce8e4ca55e002920484a90c7523876f3e25f4304b4797a298b5600892d5",
-		"lib/unitCommands.js": "84310a7f026edfc7abdeb29f9fb13bfe24ebd4e3587534a5ea8d7bcdd7a11471",
-		"lib/unitUI.js": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
 		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
 		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
 		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
 		"node_modules/string-similarity/src/index.js": "941fc8276576aaa2952d4731d90fdc4b7fb2bb3871646e6cd4da47823c432520",
-		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31"
+		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31",
+		"lib/management/cmd.js": "be63962050d061da589efeaa1d554605b4effe9f81d01ede540fe16ae5e66907"
 	}
 }
