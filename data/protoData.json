@@ -139,5 +139,11 @@
 	},
 	"S_UNMOUNT_VEHICLE": {
 		"default": 2
+	},
+	"S_STICK_TO_USER_END": {
+		"default": 2
+	},
+	"S_STICK_TO_USER_START": {
+		"default": 1
 	}
 }
