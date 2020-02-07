@@ -14,7 +14,7 @@
 * @property {import('./lib/unitState')} data
 * @property {import('./lib/unitTracker')} tracker
 * @property {import('./lib/unitFps')} fps
-* @property {import('./lib/unitCommands')} cmd
+* @property {import('./lib/management/cmd')} cmd
 * @property {*} mod
 */
 
@@ -29,7 +29,7 @@ const units = [
 	["data", require("./lib/unitState")],
 	["tracker", require("./lib/unitTracker")],
 	["fps", require("./lib/unitFps")],
-	["cmd", require("./lib/unitCommands")]
+	["cmd", require("./lib/management/cmd")]
 ];
 
 class FpsManager {
