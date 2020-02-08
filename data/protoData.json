@@ -145,5 +145,8 @@
 	},
 	"S_STICK_TO_USER_START": {
 		"default": 1
+	},
+	"S_QUEST_BALLOON": {
+		"default": 1
 	}
 }
