@@ -20,6 +20,7 @@
 			"blockInventoryInCombat": false,
 			"blockShakeEffects": false,
 			"blockCollections": false,
+			"blockPetBaloons": false,
 			"blockHits": {
 				"area": false,
 				"me": false
@@ -82,6 +83,7 @@
 			"blockInventoryInCombat": false,
 			"blockShakeEffects": true,
 			"blockCollections": false,
+			"blockPetBaloons": true,
 			"blockHits": {
 				"area": true,
 				"me": false
@@ -144,6 +146,7 @@
 			"blockInventoryInCombat": true,
 			"blockShakeEffects": true,
 			"blockCollections": true,
+			"blockPetBaloons": true,
 			"blockHits": {
 				"area": true,
 				"me": true
