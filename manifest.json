@@ -14,7 +14,7 @@
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
 		"lib/unitFps.js": "8b5f97bd5354e8215d9b75d5c0dcab5826e9f1be4e7ca083d7733272774c027a",
 		"lib/unitProto.js": "c5b5f22a78ff835ed71ebd39a3b2469c521b83cb7563aa605e05fa7429a93186",
-		"lib/unitState.js": "f3a19001a4f9e8aeb8810ea0e2189967932150661f5e24f4e0cff41c2d180612",
+		"lib/unitState.js": "3c90a4f552b7004600e61861e07047f4b95a54aea5dfff781fc6bdeb81f41893",
 		"lib/unitTracker.js": "8b613a1c8bfba6d5d54755510618f836fe6d17f0ae9493d686d813488fbab33f",
 		"module.json": "c8dc3eb475283a470448c8478a645803e29ee26f5f6e40b49a9e51d448ed4ef4",
 		"node_modules/fast-deep-equal/LICENSE": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
