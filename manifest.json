@@ -1,13 +1,13 @@
 {
 	"files": {
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"README.md": "d43d48e2b3a51a9f0753049d4a224805bb7df3b614dbec4eb81084c9ad87b057",
-		"data/migrationData.js": "efc09a3f65a66e849d9ac7e65aee7f3722ff5de1dc1e2fd8c2087edb7fddc6fb",
+		"README.md": "e6f85c15d5264a27180900532a59b1079cb63f2dbacd9d18369d792173aa728f",
+		"data/migrationData.js": "ed6aeca6833ad59a4459d17e7695613b825548e3e5c35a77500f7d31a19f469f",
 		"data/protoData.json": "88a2974d198ec95f9ca85c9b729db9351f1b9c51bcca0193233683069a3d904d",
 		"data/staticData.json": "ec3ee9ef198e7cd62b97bac466556f06f7c762ed39cb832a0b346aaada612328",
 		"docs/commands.md": "a454e52a28d9e058009d61640c1da2d7e6ed27e8c36343e858af94bbf8dec536",
-		"docs/presets.md": "7abd28b2e6248d7b4d21ac3d93c86218aee2a9b7e6445fd28d4c34dacf8781a7",
-		"docs/settings.md": "3eb436247de5ad195daa464d80e82e63974336dde549ca7e93a7b0eeb61be9fe",
+		"docs/presets.md": "b456639f581532b66fd1164a6569aa30f9b60ba5b1d81997835663e6ad19040f",
+		"docs/settings.md": "9ed6b3d9a3316ca6bbf87408e8aaa0654794ffdb801aeeaf69e3136aa3f53c08",
 		"fpsManager.js": "3b6a968718e5830a61783528606684b270dbc0e3ed649d3b047e469887f7ca6e",
 		"lib/helpers/enums.js": "4702fa4fca4689fa6436e0d75195064a0002aa426c076a836538f12c1b4e9cbb",
 		"lib/helpers/utils.js": "35140f5041ae1264816b36766385db10c5b7fbc54efd016ed97e8d8655318d6d",
@@ -41,7 +41,7 @@
 		},
 		"settings/settings.json": {
 			"overwrite": false,
-			"hash": "7681c76bae04849060861366b3c525f40bcf82f5561d0413de19c846871a2d78"
+			"hash": "ab2de29c63a61f49135e4c76e0dec54b01195827ab74600683221e07af20d7ee"
 		},
 		"data/UI/fastaccess.html": "51e75ee6287788ec9b40be80919f93115eb36f0231102a9decc925e84645ff8f",
 		"data/UI/fastaccess.js": "3c921ce8e4ca55e002920484a90c7523876f3e25f4304b4797a298b5600892d5",
