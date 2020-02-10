@@ -14,9 +14,9 @@
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
 		"lib/unitFps.js": "977da33ce53333fcc020ed2ae0cbd503ff9256fe09fc27ada8412c3991f69e71",
 		"lib/unitProto.js": "c5b5f22a78ff835ed71ebd39a3b2469c521b83cb7563aa605e05fa7429a93186",
-		"lib/unitState.js": "fdfc786c17cefa88c36c968547a46e20df89496a7889f710366fdde55a3fde26",
+		"lib/unitState.js": "eae5f5ec846187479f9f29162b3e35ff3d67c2844b4601e741d3da59b9badeac",
 		"lib/unitTracker.js": "8b613a1c8bfba6d5d54755510618f836fe6d17f0ae9493d686d813488fbab33f",
-		"module.json": "c8dc3eb475283a470448c8478a645803e29ee26f5f6e40b49a9e51d448ed4ef4",
+		"module.json": "9e9eeb82da4134f11a573c2f35c9c3a76540a58561eb9323d1e7b0cae663a0fc",
 		"node_modules/fast-deep-equal/LICENSE": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
 		"node_modules/fast-deep-equal/README.md": "ada32c1b53bd74640a22806e99b25c2b8ab2946eed338f325114be87bd5b9fce",
 		"node_modules/fast-deep-equal/es6/index.d.ts": "6088db10b4d7657ea7c69e46c9ef7c6bb507afc2d1c210c6934e31c638cfc500",
@@ -41,7 +41,7 @@
 		},
 		"settings/settings.json": {
 			"overwrite": false,
-			"hash": "ab2de29c63a61f49135e4c76e0dec54b01195827ab74600683221e07af20d7ee"
+			"hash": "285c6712addc9c3bfb6b0643eeeb213b66b46b2d85f04cda1836273fa2728dbd"
 		},
 		"data/UI/fastaccess.html": "51e75ee6287788ec9b40be80919f93115eb36f0231102a9decc925e84645ff8f",
 		"data/UI/fastaccess.js": "3c921ce8e4ca55e002920484a90c7523876f3e25f4304b4797a298b5600892d5",
