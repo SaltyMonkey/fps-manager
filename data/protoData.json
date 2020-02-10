@@ -148,5 +148,17 @@
 	},
 	"S_QUEST_BALLOON": {
 		"default": 1
+	},
+	"S_LEAVE_PARTY": {
+		"default": 1
+	},
+	"S_BAN_PARTY_MEMBER": {
+		"default": 1
+	},
+	"S_LEAVE_PARTY_MEMBER": {
+		"default": 2
+	},
+	"S_PARTY_MEMBER_LIST": {
+		"default": 7
 	}
 }
