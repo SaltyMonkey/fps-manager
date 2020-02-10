@@ -82,7 +82,7 @@
 			"blockAchievementsInCombat": false,
 			"blockInventoryInCombat": false,
 			"blockShakeEffects": true,
-			"blockGatherNode": false,
+			"blockGatherNode": true,
 			"blockPetBaloons": true,
 			"blockHits": {
 				"area": true,
@@ -95,8 +95,8 @@
 				"effects": true
 			},
 			"blockNumbersPopups": {
-				"hp": false,
-				"mp": false,
+				"hp": true,
+				"mp": true,
 				"damage": false
 			},
 			"blockAdditionalSkillEffects": {
@@ -111,12 +111,12 @@
 				"templateId": []
 			},
 			"blockServants": {
-				"area": false,
+				"area": true,
 				"me": false
 			},
 			"blockSummons": {
 				"me": false,
-				"area": false
+				"area": true
 			},
 			"blockSkills": {
 				"class": [],
