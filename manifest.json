@@ -3,18 +3,18 @@
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
 		"README.md": "d43d48e2b3a51a9f0753049d4a224805bb7df3b614dbec4eb81084c9ad87b057",
 		"data/migrationData.js": "efc09a3f65a66e849d9ac7e65aee7f3722ff5de1dc1e2fd8c2087edb7fddc6fb",
-		"data/protoData.json": "6bab487cacfb9ac3c46a189f7f2869d7ff054e734cf6e7fed1a9f22e151edf3f",
+		"data/protoData.json": "88a2974d198ec95f9ca85c9b729db9351f1b9c51bcca0193233683069a3d904d",
 		"data/staticData.json": "ec3ee9ef198e7cd62b97bac466556f06f7c762ed39cb832a0b346aaada612328",
 		"docs/commands.md": "a454e52a28d9e058009d61640c1da2d7e6ed27e8c36343e858af94bbf8dec536",
 		"docs/presets.md": "7abd28b2e6248d7b4d21ac3d93c86218aee2a9b7e6445fd28d4c34dacf8781a7",
 		"docs/settings.md": "3eb436247de5ad195daa464d80e82e63974336dde549ca7e93a7b0eeb61be9fe",
 		"fpsManager.js": "3b6a968718e5830a61783528606684b270dbc0e3ed649d3b047e469887f7ca6e",
-		"lib/helpers/enums.js": "994b0cd5af1219f852b74d7342728131c3e756c5ea36d3c324cd36cd73e6894a",
+		"lib/helpers/enums.js": "4702fa4fca4689fa6436e0d75195064a0002aa426c076a836538f12c1b4e9cbb",
 		"lib/helpers/utils.js": "35140f5041ae1264816b36766385db10c5b7fbc54efd016ed97e8d8655318d6d",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
-		"lib/unitFps.js": "af7aed333eee18176a203970ae9d3dfec373190af23b0a888cec7a442e00092a",
+		"lib/unitFps.js": "977da33ce53333fcc020ed2ae0cbd503ff9256fe09fc27ada8412c3991f69e71",
 		"lib/unitProto.js": "c5b5f22a78ff835ed71ebd39a3b2469c521b83cb7563aa605e05fa7429a93186",
-		"lib/unitState.js": "3c90a4f552b7004600e61861e07047f4b95a54aea5dfff781fc6bdeb81f41893",
+		"lib/unitState.js": "fdfc786c17cefa88c36c968547a46e20df89496a7889f710366fdde55a3fde26",
 		"lib/unitTracker.js": "8b613a1c8bfba6d5d54755510618f836fe6d17f0ae9493d686d813488fbab33f",
 		"module.json": "c8dc3eb475283a470448c8478a645803e29ee26f5f6e40b49a9e51d448ed4ef4",
 		"node_modules/fast-deep-equal/LICENSE": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
@@ -37,7 +37,7 @@
 		"package.json": "4b01e6db77d07144a0ee9f919c1fe6a5387359418312003f8ffd8192fb4861b6",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "3c79d6de2e5d8d5ccf71f01619aad9bb2a7f18573f54fb6881e1461efc580bf8"
+			"hash": "2e8273d94179d87806dd37acf9cc2b589ddb56297205b23cae4e680945e1b46e"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
