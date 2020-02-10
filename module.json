@@ -5,7 +5,7 @@
         "niceName": "FPM",
         "guiName": "FPS Manager",
         "settingsVersion": 1,
-        "settingsFile": "./settings.json",
+        "settingsFile": "./settings/settings.json",
         "settingsMigrator": "./data/migrationData.js"
     },
     "author": "SaltyMonkey",
