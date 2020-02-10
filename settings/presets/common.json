@@ -56,6 +56,7 @@
 				"area": false
 			},
 			"blockSkills": {
+				"all": false,
 				"class": [],
 				"rawId": [],
 				"extended": {
@@ -119,6 +120,7 @@
 				"area": true
 			},
 			"blockSkills": {
+				"all": false,
 				"class": [],
 				"rawId": [],
 				"extended": {
@@ -182,10 +184,10 @@
 				"area": true
 			},
 			"blockSkills": {
+				"all": true,
 				"class": [],
 				"rawId": [],
 				"extended": {
-
 				}
 			},
 			"blockNpcs": {
