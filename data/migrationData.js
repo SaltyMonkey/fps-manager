@@ -1,13 +1,13 @@
 "use strict";
 
 const DefaultSettings = {
+	"interactive": false,
 	"registerCommands": true,
 	"customCommandsTag": "",
 	"registerUI": false,
 	"registerFastAccessUI": false,
-	"interactive": false,
 	"debugMode": false,
-	"classBasedPresets": false,
+	"classBasedPresets": true,
 	"enableEvents": false,
 	"trackPresetsChanges": false
 };

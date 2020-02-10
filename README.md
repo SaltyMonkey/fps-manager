@@ -75,5 +75,11 @@ Manual installation:
 Automatic installation:
 - Open Tera Toolbox, open `Get More Mods` tab and install it as simple mod.
 
+## Usage
+
+By default FPS Manager contains presets 0/1/2 (smth similar with fps utils)
+
+For advanced usage look into `/docs` folder in mod folder
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

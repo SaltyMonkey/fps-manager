@@ -11,4 +11,3 @@ Settings file path: `<modfolder>/settings/settings.json`. Can be opened with any
 | interactive        | Boolean | Enable/Disable additional ingame messages from mod   |
 | classBasedPresets  | Boolean | Enable/Disable per-class `presets` usage   |
 | enableEvents       | Boolean | Enable/Disable ingame commands   |
-| enableEvents       | Boolean | Enable/Disable realtime class presets changes monitoring and reloading  |

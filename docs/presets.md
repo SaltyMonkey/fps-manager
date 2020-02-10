@@ -99,3 +99,76 @@ Simplified example below: (WARNING: you can't place comments as below in real fi
 	...
 }
 ```
+
+## mode structure
+
+Every `mode` `object` in `preset` contains options for fps manager.
+
+Detailed explanation for every option below:
+
+```JS
+{
+			"throttleSomePackets": false, //blocks some packets if server spams them and they all same
+			"blockCustomAppearanceChanges": false, //blocks custom appearance changes (as example marrow brooch)
+			"blockUselessPackets": false, //block some unused packets which still gets send to client
+			"blockAnnoyingScreenMessages": false, //block some spammy messages (as example guild quests)
+			"blockNpcsDeathAnimations": false, //block animated death 
+			"blockAchievementsInCombat": false, //block achievement packets while you in combat
+			"blockInventoryInCombat": false, //block inventory packets while you in combat
+			"blockShakeEffects": false, //block ALL shake effects 
+			"blockGatherNode": false, //block useless gather nodes 
+			"blockPetBaloons": false, //block pet messages 
+			"blockHits": {
+				"area": false, //block hits in area except you
+				"me": false //block own hits effects but keep them from another players
+			},
+			"blockBuffs": {
+				"area": false, //block all player buffs packets except your
+				"huntRewards": false, //block exp/gold buffs
+				"shapeChange": false, //block shape change buffs
+				"effects": false //block on screen effects 
+			},
+			"blockNumbersPopups": {
+				"hp": false, //block your hp change numbers
+				"mp": false, //block your mp numbers 
+				"damage": false //block damage numbers
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false, //block your skills additional effects when possible
+				"players": false //block skills additional effects when possible from players near
+			},
+			"blockProjectiles": {
+				"players": false //block players projectiles effects
+			},
+			"blockDropItems": {
+				"all": false, //block ALL drop 
+				"templateId": [] //block desired drop by templateId
+			},
+			"blockServants": {
+				"area": false, //block servants from another players
+				"me": false //block own servants
+			},
+			"blockSummons": {
+				"me": false, //block own summons
+				"area": false //block  not your summons
+			},
+			"blockSkills": {
+				"class": [], //block skills based on class
+				"rawId": [], //block all skills with desired id
+				"extended": { 
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [], //block npc by template Is
+				"huntingZoneId": [] //block npc by hunting zone
+			},
+			"blockPlayers": {
+				"all": false, //block all players near
+				"keepParty": true, //keep party members from block
+				"class": [], //block by class
+				"name": [] //block by name
+			}
+		},
+		
+```
