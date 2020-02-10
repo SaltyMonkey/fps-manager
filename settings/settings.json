@@ -7,7 +7,7 @@
         "registerFastAccessUI": false,
         "interactive": false,
         "debugMode": false,
-        "classBasedPresets": false,
+        "classBasedPresets": true,
         "enableEvents": false,
         "trackPresetsChanges": false
     }
