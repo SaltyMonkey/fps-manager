@@ -169,5 +169,8 @@
 	},
 	"S_NOCTAN_VARIATION_INFO": {
 		"default": 1
+	},
+	"S_ITEM_EXPLOSION_RESULT": {
+		"default": 2
 	}
 }
