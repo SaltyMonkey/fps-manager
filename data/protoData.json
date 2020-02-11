@@ -172,5 +172,8 @@
 	},
 	"S_ITEM_EXPLOSION_RESULT": {
 		"default": 2
+	},
+	"S_START_ACTION_SCRIPT": {
+		"default": 3
 	}
 }
