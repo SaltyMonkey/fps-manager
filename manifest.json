@@ -12,7 +12,7 @@
 		"lib/helpers/enums.js": "04e66079ef969c1eb8c4963cf03c08d8a23edec6928854c624d2094bbf3e1979",
 		"lib/helpers/utils.js": "35140f5041ae1264816b36766385db10c5b7fbc54efd016ed97e8d8655318d6d",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
-		"lib/unitFps.js": "a67d4a6aef5b0c117e9ea2cdfcb89a0a09bc2394479e8019c5c8727a72a79211",
+		"lib/unitFps.js": "820a9d5ccc9a68bd551ca3c28bb0eb2322ddd5ff49e01f1dbb2faa93fc179f02",
 		"lib/unitProto.js": "c5b5f22a78ff835ed71ebd39a3b2469c521b83cb7563aa605e05fa7429a93186",
 		"lib/unitState.js": "ae3fe86191bd22b0a1d6b792fb1d228453d61912080f36cce42efc9ec3fb014b",
 		"lib/unitTracker.js": "878425c2d86ec8571278cfc0d964fd96dbcc0f021346c38d8f39f977328b43f5",
