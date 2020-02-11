@@ -163,5 +163,11 @@
 	},
 	"S_DEFEND_SUCCESS": {
 		"default": 3
+	},
+	"S_INSTANT_MOVE": {
+		"default": 3
+	},
+	"S_NOCTAN_VARIATION_INFO": {
+		"default": 1
 	}
 }
