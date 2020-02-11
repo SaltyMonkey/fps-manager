@@ -90,4 +90,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - [Caali](https://github.com/caali-hackerman) for Toolbox features and help with understanding how Tera works
 - [Kasea](https://github.com/Kaseaa) for his fps booster memes and working ideas behind it
 - [HugeDong69](https://github.com/codeagon) for his bad code in fps utils which just works (still idk how)
-- [Risenio](https://github.com/SerenTera) for his packets logs so i was able code without login to Tera
+- [Risenio](https://github.com/Risenio) for his packets logs so i was able code without login to Tera
