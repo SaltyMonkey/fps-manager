@@ -27,7 +27,6 @@
 			},
 			"blockBuffs": {
 				"area": false,
-				"huntRewards": false,
 				"shapeChange": false,
 				"effects": false
 			},
@@ -48,8 +47,7 @@
 				"templateId": []
 			},
 			"blockServants": {
-				"area": false,
-				"me": false
+				"area": false
 			},
 			"blockSummons": {
 				"me": false,
@@ -91,7 +89,6 @@
 			},
 			"blockBuffs": {
 				"area": false,
-				"huntRewards": true,
 				"shapeChange": true,
 				"effects": true
 			},
@@ -112,8 +109,7 @@
 				"templateId": []
 			},
 			"blockServants": {
-				"area": true,
-				"me": false
+				"area": true
 			},
 			"blockSummons": {
 				"me": false,
@@ -155,7 +151,6 @@
 			},
 			"blockBuffs": {
 				"area": true,
-				"huntRewards": true,
 				"shapeChange": true,
 				"effects": true
 			},
@@ -176,8 +171,7 @@
 				"templateId": []
 			},
 			"blockServants": {
-				"area": true,
-				"me": false
+				"area": true
 			},
 			"blockSummons": {
 				"me": true,
