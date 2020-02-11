@@ -12,9 +12,9 @@
 		"lib/helpers/enums.js": "04e66079ef969c1eb8c4963cf03c08d8a23edec6928854c624d2094bbf3e1979",
 		"lib/helpers/utils.js": "35140f5041ae1264816b36766385db10c5b7fbc54efd016ed97e8d8655318d6d",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
-		"lib/unitFps.js": "a2439272ed94ff926d55a5c531eaa4dcc8699112b367d2d7b59f747e8d3b1623",
+		"lib/unitFps.js": "3595ba798842f9fdd48951db07419ec8ed1459cd74b53ab8d8588accd4198d66",
 		"lib/unitProto.js": "c5b5f22a78ff835ed71ebd39a3b2469c521b83cb7563aa605e05fa7429a93186",
-		"lib/unitState.js": "4ff67c36469f25807545ec1c407318f79035d7a2813c6d53cfaa0b942635176e",
+		"lib/unitState.js": "ae3fe86191bd22b0a1d6b792fb1d228453d61912080f36cce42efc9ec3fb014b",
 		"lib/unitTracker.js": "878425c2d86ec8571278cfc0d964fd96dbcc0f021346c38d8f39f977328b43f5",
 		"module.json": "9e9eeb82da4134f11a573c2f35c9c3a76540a58561eb9323d1e7b0cae663a0fc",
 		"node_modules/rfdc/LICENSE": "1ce941682a96c7b898ecd125d0f2e22319758ea6f3adbf498a65d649b0f3f7dd",
@@ -26,7 +26,7 @@
 		"package.json": "3c583936de5d6ad95c06bf3e8e42dd444a77609e572b82466985b9c254c23876",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "2b82a82e5e7ef585437f7ed7bacfb1f33134e9fc849318fd47f56d6f8bc08456"
+			"hash": "aef58c6cf2b2835df33fe14939137c6223c0cbfff96ef86ebbe5414141829315"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
