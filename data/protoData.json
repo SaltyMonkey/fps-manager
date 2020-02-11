@@ -160,5 +160,8 @@
 	},
 	"S_PARTY_MEMBER_LIST": {
 		"default": 7
+	},
+	"S_DEFEND_SUCCESS": {
+		"default": 3
 	}
 }
