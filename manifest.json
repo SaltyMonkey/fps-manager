@@ -1,10 +1,10 @@
 {
 	"files": {
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"README.md": "dab21ae430c2e8137d949b0e01a3f82913704867c1c830366344600be9c18f69",
+		"README.md": "ab4fee5b654b1511f44f42462569048477142fc43b4ca82817809e5b74ba00f6",
 		"data/migrationData.js": "ed6aeca6833ad59a4459d17e7695613b825548e3e5c35a77500f7d31a19f469f",
 		"data/protoData.json": "720a00ba4c8e0d52dae7108d643fb1b04b095046d9abce6afff784bd9266b331",
-		"data/staticData.json": "ec3ee9ef198e7cd62b97bac466556f06f7c762ed39cb832a0b346aaada612328",
+		"data/staticData.json": "002b2ff8f2e0340d3f45058db703d9c8a7d1994abdc93590d4462330599393c7",
 		"docs/commands.md": "a454e52a28d9e058009d61640c1da2d7e6ed27e8c36343e858af94bbf8dec536",
 		"docs/presets.md": "b456639f581532b66fd1164a6569aa30f9b60ba5b1d81997835663e6ad19040f",
 		"docs/settings.md": "9ed6b3d9a3316ca6bbf87408e8aaa0654794ffdb801aeeaf69e3136aa3f53c08",
@@ -12,7 +12,7 @@
 		"lib/helpers/enums.js": "04e66079ef969c1eb8c4963cf03c08d8a23edec6928854c624d2094bbf3e1979",
 		"lib/helpers/utils.js": "35140f5041ae1264816b36766385db10c5b7fbc54efd016ed97e8d8655318d6d",
 		"lib/helpers/watchdog.js": "2ff5c10739ddcbb040167b6b6c09ad5c14bafee9d9609cc7d1b8a387412e9bfb",
-		"lib/unitFps.js": "8bf1eb08d7c18573223451208a188c7aaa5e6a4a928946985030b674324d2bc5",
+		"lib/unitFps.js": "2a4abe2b0d75e6b0a9a5a7a58f790e38f8e1854c5a0b2242e83e85891eda2fb1",
 		"lib/unitProto.js": "c5b5f22a78ff835ed71ebd39a3b2469c521b83cb7563aa605e05fa7429a93186",
 		"lib/unitState.js": "6cb475e11a339a711c104fa62f34ef89fabbec0780fab0a51b02a1d7a80dad47",
 		"lib/unitTracker.js": "878425c2d86ec8571278cfc0d964fd96dbcc0f021346c38d8f39f977328b43f5",
@@ -26,14 +26,12 @@
 		"package.json": "3c583936de5d6ad95c06bf3e8e42dd444a77609e572b82466985b9c254c23876",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "9ce5f7885225554c43b5995338978aca65c4891fa4f15cf7c2c16503b24a8e85"
+			"hash": "f1494539835bc7412314cee6cd101e299161d13555540d9b11451152a6a9eead"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
 			"hash": "6c5cd3e8b854569288a8c9b4e73cbcceed791467d0756a6f5ccae08ef7b7dfd2"
 		},
-		"data/UI/fastaccess.html": "51e75ee6287788ec9b40be80919f93115eb36f0231102a9decc925e84645ff8f",
-		"data/UI/fastaccess.js": "3c921ce8e4ca55e002920484a90c7523876f3e25f4304b4797a298b5600892d5",
 		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
 		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
 		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
