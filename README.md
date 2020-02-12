@@ -28,10 +28,11 @@ FPS Manager is modern and extremely customizable module for Tera Toolbox which c
 
 ## Features (everything is configurable)
 
-- Throttle some repetitive packets to decrease amount of work in client
+- Throttle some repetitive packets to decrease amount of work for client
 - Block some outdated/irrelevant for gameplay packets
 - Block repetitive and irrelevant onscreen messages
 - Block visual change packets 
+- Block action scripts
 - Block NPC death animation
 - Block inventory packets spam in combat
 - Block achievements packets spam in combat
@@ -42,6 +43,7 @@ FPS Manager is modern and extremely customizable module for Tera Toolbox which c
 - Block onscreen numbers popups
 - Block damage numbers
 - Block secondary skill effects when possible
+- Block mystic motes explosion effect
 - Block projectiles from skills
 - Block drop items
 - Block servants
