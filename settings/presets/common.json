@@ -39,10 +39,12 @@
 			},
 			"blockAdditionalSkillEffects": {
 				"own": false,
-				"players": false
+				"players": false,
+				"keepParty": false
 			},
 			"blockProjectiles": {
-				"players": false
+				"players": false,
+				"keepParty": false
 			},
 			"blockDropItems": {
 				"all": false,
@@ -57,6 +59,7 @@
 			},
 			"blockSkills": {
 				"all": false,
+				"keepClass": [],
 				"class": [],
 				"rawId": [],
 				"extended": {
@@ -103,10 +106,12 @@
 			},
 			"blockAdditionalSkillEffects": {
 				"own": false,
-				"players": true
+				"players": true,
+				"keepParty": false
 			},
 			"blockProjectiles": {
-				"players": false
+				"players": false,
+				"keepParty": false
 			},
 			"blockDropItems": {
 				"all": false,
@@ -121,6 +126,7 @@
 			},
 			"blockSkills": {
 				"all": false,
+				"keepClass": [],
 				"class": [],
 				"rawId": [],
 				"extended": {
@@ -167,10 +173,12 @@
 			},
 			"blockAdditionalSkillEffects": {
 				"own": true,
-				"players": true
+				"players": true,
+				"keepParty": false
 			},
 			"blockProjectiles": {
-				"players": true
+				"players": true,
+				"keepParty": false
 			},
 			"blockDropItems": {
 				"all": false,
@@ -185,6 +193,7 @@
 			},
 			"blockSkills": {
 				"all": true,
+				"keepClass": [],
 				"class": [],
 				"rawId": [],
 				"extended": {
