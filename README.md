@@ -1,6 +1,6 @@
 [![Toolbox](https://img.shields.io/badge/Tera--Toolbox-latest-blueviolet)](https://github.com/tera-toolbox) ![](https://api.dependabot.com/badges/status?host=github&repo=SaltyMonkey/fps-manager) ![](https://github.com/SaltyMonkey/fps-manager/workflows/CI/badge.svg) ![](https://img.shields.io/github/license/SaltyMonkey/fps-manager)
 
-# Current state: Beta version
+# Current state: second beta version
 
 # FPS Manager
 
@@ -20,7 +20,6 @@ FPS Manager is modern and extremely customizable module for Tera Toolbox which c
 - Fully clientside (FPS Manager will never send something to server)
 - Class based configuration (just in-game events not enough? Enjoy custom settings combinations automatic switch based on game class)
 - Shareable configuration (friend want to use your settings? It is not issue anymore. Just drag and drop them!)
-- Dynamic configuration (FPS Manager can detect presets changes at your drive without game restart!)
 - Custom modes (don't like predefined settings for configurations or they can't fit your gameplay? just rename everything or create personal configurations)
 - Optional commands (commands IS OPTIONAL and can be disabled in settings)
 - Interactive messages (Want to know details about mod automation decisions? Just use interactive mode)
@@ -71,17 +70,11 @@ A: Presets must be in JSON format without comments
 
 ## Installation
 
-Manual installation:
-- Create a folder called `fps-manager` in `<tera-toolbox>/mods` and download >> [`module.json`]() << (right-click this link and press save as button...) into created folder
-
-Automatic installation:
-- Open Tera Toolbox, open `Get More Mods` tab and install it as simple mod.
+### [Installation guide](https://github.com/SaltyMonkey/fps-manager/wiki/Installation-guide)
 
 ## Usage
 
-By default FPS Manager contains presets 0/1/2 (smth similar with fps utils)
-
-For advanced usage details look into `/docs` folder in mod folder
+### [Wiki](https://github.com/SaltyMonkey/fps-manager/wiki)
 
 ## Contributing
 
