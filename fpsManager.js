@@ -25,6 +25,7 @@ const msg = {
 };
 
 const units = [
+	["log", require("./lib/unitLog")],
 	["proto", require("./lib/unitProto")],
 	["data", require("./lib/unitState")],
 	["tracker", require("./lib/unitTracker")],
@@ -37,9 +38,8 @@ class FpsManager {
 		/** 
 		* @type {deps}
 		*/
-		let deps = { "mod": mod };
 
-		console.log("DEBUG: FpsManager -> constructor");
+		let deps = { "mod": mod };
 
 		//check compatibility (only warning atm)
 		if (mod.proxyAuthor !== "caali")
