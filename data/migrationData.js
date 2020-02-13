@@ -11,8 +11,7 @@ const DefaultSettings = {
 	"cleanChat": false,
 	"debugMode": false,
 	"classBasedPresets": true,
-	"enableEvents": false,
-	"trackPresetsChanges": false
+	"enableEvents": false
 };
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {
