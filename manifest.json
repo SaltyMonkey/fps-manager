@@ -33,7 +33,7 @@
 		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
 		"node_modules/string-similarity/src/index.js": "941fc8276576aaa2952d4731d90fdc4b7fb2bb3871646e6cd4da47823c432520",
 		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31",
-		"lib/management/cmd.js": "8f46739030992a737966f0d2da59805e7820b938686d8ce6ba2be01e3806c47d",
+		"lib/management/cmd.js": "d6cd54a3d48199610ef03a82881d37500a12982711166a5a6b5e4b6967444816",
 		"lib/unitLog.js": "db56179554387c5b011557a7d79ea6fce3fa68d7f48f4e7fb75320383f249212"
 	}
 }
