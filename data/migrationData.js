@@ -1,11 +1,14 @@
 "use strict";
 
 const DefaultSettings = {
-	"interactive": false,
 	"registerCommands": true,
-	"customCommandsTag": "",
-	"registerUI": false,
-	"registerFastAccessUI": false,
+	"fpsUtilsCommandsPrefix": false,
+	"registerUI": true,
+	"registerUIShortcut": false,
+	"UIShortcut": "",
+	"simplifiedMode": false,
+	"interactive": false,
+	"cleanChat": false,
 	"debugMode": false,
 	"classBasedPresets": true,
 	"enableEvents": false,
