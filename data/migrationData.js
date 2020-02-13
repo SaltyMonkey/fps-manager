@@ -7,7 +7,7 @@ const DefaultSettings = {
 	"registerUIShortcut": false,
 	"UIShortcut": "",
 	"simplifiedMode": false,
-	"interactive": false,
+	"interactive": true,
 	"cleanChat": false,
 	"debugMode": false,
 	"classBasedPresets": true,
