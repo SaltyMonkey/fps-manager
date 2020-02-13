@@ -2,7 +2,7 @@
 	"files": {
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
 		"README.md": "68df1bcffba1586ca38506aedec8f274aad36ed86140e641bca3e4d14a0567bd",
-		"data/migrationData.js": "8a75172aaafe783fa8373387795c0405153f07c21fef67c3c85b5c337b214e57",
+		"data/migrationData.js": "8cbfe636cbecd91630f3636e7ffc98f6640e1cb082d786fb832c202da2b31d63",
 		"data/protoData.json": "720a00ba4c8e0d52dae7108d643fb1b04b095046d9abce6afff784bd9266b331",
 		"data/staticData.json": "002b2ff8f2e0340d3f45058db703d9c8a7d1994abdc93590d4462330599393c7",
 		"fpsManager.js": "44453665a8d7ddcd3d3ea546c7e1a72338bb75f6e48ce53a013ec06a4beba105",
@@ -26,7 +26,7 @@
 		},
 		"settings/settings.json": {
 			"overwrite": false,
-			"hash": "dea8c7daad11323dc7331e2eef3159eeea3ceb754bf390b148c590c4c9d05604"
+			"hash": "9f157c450c75bef2b0054d0bb353d1164d3ea5b44c4d09f31fbb3ee998349145"
 		},
 		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
 		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
