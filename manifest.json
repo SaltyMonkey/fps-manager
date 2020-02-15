@@ -8,7 +8,7 @@
 		"fpsManager.js": "44453665a8d7ddcd3d3ea546c7e1a72338bb75f6e48ce53a013ec06a4beba105",
 		"lib/helpers/enums.js": "04e66079ef969c1eb8c4963cf03c08d8a23edec6928854c624d2094bbf3e1979",
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
-		"lib/unitFps.js": "e14a5851755c3afcf9be5cb0871d89201724ef3ffb5a6b6d2c75f402b5656d73",
+		"lib/unitFps.js": "f9b72e8cde5631e7fcac46a1fd3db640979110faf04b876b0c0e6bfc3cdd4083",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "1a0f85b871d5c609ac1064f3f8ac1c18726e7c8e6ec4e7b19630eb2cae81e6ee",
 		"lib/unitTracker.js": "ff9ce4a8333f8800d1b1424dabbdbe174a269afed7635dd063aac44a6e7eff15",
@@ -18,8 +18,8 @@
 		"node_modules/rfdc/package.json": "88e323621b6835ca2b980ab1d7507f49a2b63f4c8d3301d010640de363694bd3",
 		"node_modules/rfdc/readme.md": "67da311a12dd2d655fc656bafd5d5f0345cd322667bb58201623b468d195bf05",
 		"node_modules/rfdc/test/index.js": "89c8b6631df835a01305a62ebf6ae94feb4381bcc8083fcd30bd4a394f3e5e17",
-		"package-lock.json": "ccccbf5620a949d125139a205a645d93fdc76d38b407a9bb92d19902d67c5f22",
-		"package.json": "3c583936de5d6ad95c06bf3e8e42dd444a77609e572b82466985b9c254c23876",
+		"package-lock.json": "2d8a16952ce660a5385f17aa438cd926f49be9487cb945240f7425236b1487bf",
+		"package.json": "7504249ec18b1c766819b36c4ba909313675bec7c2e8881ae692bd3b33a240f1",
 		"settings/presets/common.json": {
 			"overwrite": false,
 			"hash": "f1494539835bc7412314cee6cd101e299161d13555540d9b11451152a6a9eead"
