@@ -3,5 +3,4 @@
 *.bak
 node_modules/*
 !node_modules/rfdc/
-!node_modules/fast-deep-equal/
 !node_modules/string-similarity/
