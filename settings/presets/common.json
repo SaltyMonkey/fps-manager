@@ -21,7 +21,7 @@
 			"blockAchievementsInCombat": false,
 			"blockInventoryInCombat": false,
 			"blockShakeEffects": false,
-			"blockGatherNode": false,
+			"blockGatherNodes": false,
 			"blockPetBaloons": false,
 			"blockHits": {
 				"area": false,
@@ -44,6 +44,7 @@
 			},
 			"blockProjectiles": {
 				"players": false,
+				"keepRawId": [],
 				"keepParty": false
 			},
 			"blockDropItems": {
@@ -89,7 +90,7 @@
 			"blockAchievementsInCombat": false,
 			"blockInventoryInCombat": false,
 			"blockShakeEffects": true,
-			"blockGatherNode": true,
+			"blockGatherNodes": true,
 			"blockPetBaloons": true,
 			"blockHits": {
 				"area": true,
@@ -112,6 +113,7 @@
 			},
 			"blockProjectiles": {
 				"players": false,
+				"keepRawId": [],
 				"keepParty": false
 			},
 			"blockDropItems": {
@@ -157,7 +159,7 @@
 			"blockAchievementsInCombat": true,
 			"blockInventoryInCombat": true,
 			"blockShakeEffects": true,
-			"blockGatherNode": true,
+			"blockGatherNodes": true,
 			"blockPetBaloons": true,
 			"blockHits": {
 				"area": true,
@@ -180,6 +182,7 @@
 			},
 			"blockProjectiles": {
 				"players": true,
+				"keepRawId": [],
 				"keepParty": false
 			},
 			"blockDropItems": {
