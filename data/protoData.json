@@ -178,5 +178,17 @@
 	},
 	"S_LOCKON_YOU": {
 		"default": 1
+	},
+	"S_SPAWN_EVENT_SEED": {
+		"default": 2
+	},
+	"S_UPDATE_EVENT_SEED_STATE": {
+		"default": 4
+	},
+	"S_RESULT_EVENT_SEED": {
+		"default": 2
+	},
+	"S_DESPAWN_EVENT_SEED": {
+		"default": 1
 	}
 }
