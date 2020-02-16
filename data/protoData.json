@@ -175,5 +175,8 @@
 	},
 	"S_START_ACTION_SCRIPT": {
 		"default": 3
+	},
+	"S_LOCKON_YOU": {
+		"default": 1
 	}
 }
