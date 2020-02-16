@@ -3,12 +3,12 @@
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
 		"README.md": "68df1bcffba1586ca38506aedec8f274aad36ed86140e641bca3e4d14a0567bd",
 		"data/migrationData.js": "8cbfe636cbecd91630f3636e7ffc98f6640e1cb082d786fb832c202da2b31d63",
-		"data/protoData.json": "720a00ba4c8e0d52dae7108d643fb1b04b095046d9abce6afff784bd9266b331",
+		"data/protoData.json": "9d7749068da0864054091a573e5ed8a601e582ae9ec04c567a32b0275e44fda9",
 		"data/staticData.json": "e4af38d6917b414e678d69b78b116adaaed8c4a0b780d381f12d687b55e0d839",
 		"fpsManager.js": "44453665a8d7ddcd3d3ea546c7e1a72338bb75f6e48ce53a013ec06a4beba105",
 		"lib/helpers/enums.js": "04e66079ef969c1eb8c4963cf03c08d8a23edec6928854c624d2094bbf3e1979",
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
-		"lib/unitFps.js": "a5ef266a7153daf569d087362eebed3f96c6a8541748173734114718872a1de8",
+		"lib/unitFps.js": "fea68c886c488a6d441d74a8e2b0e7d129724576c7cba64093ef020aab435912",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "1a0f85b871d5c609ac1064f3f8ac1c18726e7c8e6ec4e7b19630eb2cae81e6ee",
 		"lib/unitTracker.js": "ff9ce4a8333f8800d1b1424dabbdbe174a269afed7635dd063aac44a6e7eff15",
@@ -22,7 +22,7 @@
 		"package.json": "7504249ec18b1c766819b36c4ba909313675bec7c2e8881ae692bd3b33a240f1",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "8bf7e62eb84dc5c2480f0e09d6203eaec4dd4add3a87f7819d95549e3f2d5f45"
+			"hash": "67a3dc48051e9279cd817fe39082a991312190a81f512d79c6b0c9a112b0867d"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
