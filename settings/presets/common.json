@@ -61,6 +61,7 @@
 				"all": false,
 				"keepClass": [],
 				"class": [],
+				"keepRawId": [],
 				"rawId": [],
 				"extended": {
 
@@ -128,6 +129,7 @@
 				"all": false,
 				"keepClass": [],
 				"class": [],
+				"keepRawId": [],
 				"rawId": [],
 				"extended": {
 
@@ -195,6 +197,7 @@
 				"all": true,
 				"keepClass": [],
 				"class": [],
+				"keepRawId": [],
 				"rawId": [],
 				"extended": {
 				}
