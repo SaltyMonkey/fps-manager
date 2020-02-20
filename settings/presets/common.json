@@ -79,6 +79,13 @@
 				"keepParty": true,
 				"class": [],
 				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": false,
+				"icons": false,
+				"allLook": false,
+				"p2wLook": false
 			}
 		},
 		"1": {
@@ -150,6 +157,13 @@
 				"keepParty": true,
 				"class": [],
 				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": false,
+				"icons": false,
+				"allLook": false,
+				"p2wLook": false
 			}
 		},
 		"2": {
@@ -220,6 +234,13 @@
 				"keepParty": true,
 				"class": [],
 				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": false,
+				"icons": false,
+				"allLook": false,
+				"p2wLook": false
 			}
 		}
 	}
