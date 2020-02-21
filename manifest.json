@@ -8,7 +8,7 @@
 		"fpsManager.js": "44453665a8d7ddcd3d3ea546c7e1a72338bb75f6e48ce53a013ec06a4beba105",
 		"lib/helpers/enums.js": "04e66079ef969c1eb8c4963cf03c08d8a23edec6928854c624d2094bbf3e1979",
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
-		"lib/unitFps.js": "bba8a805c03b975d98e3595338b52ae26230c497a1be8c8e3c7cb77835d8a271",
+		"lib/unitFps.js": "ac96e32efbcf643578af707bdcd42428c8f7a346bc0fb4d6efc92ba9cb29932a",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "9aee3669493c8a30a336f32ca13d29e36074617dcee0e334735b60817aeac54f",
 		"lib/unitTracker.js": "ff9ce4a8333f8800d1b1424dabbdbe174a269afed7635dd063aac44a6e7eff15",
@@ -33,7 +33,7 @@
 		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
 		"node_modules/string-similarity/src/index.js": "941fc8276576aaa2952d4731d90fdc4b7fb2bb3871646e6cd4da47823c432520",
 		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31",
-		"lib/management/cmd.js": "d6cd54a3d48199610ef03a82881d37500a12982711166a5a6b5e4b6967444816",
+		"lib/management/cmd.js": "b32ac2a9aaf65e3a682125d74faca5bcf6dff6885a7eaae0df4e6e8a2e393f8c",
 		"lib/unitLog.js": "3b430c1fcd1121f30036f314f7829361e9548245f7ff7be97e44d344179001b7"
 	}
 }
