@@ -10,7 +10,7 @@
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
 		"lib/unitFps.js": "c2f1abb71e097f00d309eaa2a53a52983ff9a2e3b15db60526a8b08ef1292995",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
-		"lib/unitState.js": "640b955ea47a3ed1d20e44c36b795a51eb79209591f7dd6e27be03c9c0e7f98f",
+		"lib/unitState.js": "08a2871ee031f50de0e6826231c573af153d3fb9d52d14128f6c38ebef73f179",
 		"lib/unitTracker.js": "ff9ce4a8333f8800d1b1424dabbdbe174a269afed7635dd063aac44a6e7eff15",
 		"module.json": "9e9eeb82da4134f11a573c2f35c9c3a76540a58561eb9323d1e7b0cae663a0fc",
 		"node_modules/rfdc/LICENSE": "1ce941682a96c7b898ecd125d0f2e22319758ea6f3adbf498a65d649b0f3f7dd",
