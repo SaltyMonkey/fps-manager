@@ -22,15 +22,15 @@
 		"package.json": "d998c75de76f2f637be797991309eceab5b68369aba031e15809f8e59d3da6e5",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "8bce1a6f8d4197e755ddf6fd332e63118fa39bec3d73aa756f7a75391aea47bf"
+			"hash": "13a186824e55c0f728f74478f62999f931ce216ea512f14f31d5da38d8922899"
 		},
 		"settings/presets/priest.json": {
 			"overwrite": false,
-			"hash": "8bce1a6f8d4197e755ddf6fd332e63118fa39bec3d73aa756f7a75391aea47bf"
+			"hash": "cbba7e69ad89ae28f4c840cf2e329391f3a6af1a278cc84a20f0bc8cc882cee5"
 		},
 		"settings/presets/elementalist.json": {
 			"overwrite": false,
-			"hash": "8bce1a6f8d4197e755ddf6fd332e63118fa39bec3d73aa756f7a75391aea47bf"
+			"hash": "cbba7e69ad89ae28f4c840cf2e329391f3a6af1a278cc84a20f0bc8cc882cee5"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
