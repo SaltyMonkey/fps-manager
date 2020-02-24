@@ -190,5 +190,11 @@
 	},
 	"S_DESPAWN_EVENT_SEED": {
 		"default": 1
+	},
+	"S_SPAWN_BUILD_OBJECT": {
+		"default": 2
+	},
+	"S_DESPAWN_BUILD_OBJECT": {
+		"default": 2
 	}
 }
