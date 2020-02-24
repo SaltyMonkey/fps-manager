@@ -111,7 +111,7 @@
 			"blockBuffs": {
 				"area": false,
 				"shapeChange": false,
-				"effects": false
+				"effects": true
 			},
 			"blockNumbersPopups": {
 				"hp": false,
@@ -190,7 +190,7 @@
 			"blockBuffs": {
 				"area": false,
 				"shapeChange": false,
-				"effects": false
+				"effects": true
 			},
 			"blockNumbersPopups": {
 				"hp": false,
@@ -269,7 +269,7 @@
 			"blockBuffs": {
 				"area": false,
 				"shapeChange": false,
-				"effects": false
+				"effects": true
 			},
 			"blockNumbersPopups": {
 				"hp": false,
