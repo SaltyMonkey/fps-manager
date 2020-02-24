@@ -188,7 +188,7 @@
 				"me": false
 			},
 			"blockBuffs": {
-				"area": true,
+				"area": false,
 				"shapeChange": true,
 				"effects": true
 			},
@@ -267,7 +267,7 @@
 				"me": false
 			},
 			"blockBuffs": {
-				"area": true,
+				"area": false,
 				"shapeChange": true,
 				"effects": true
 			},
@@ -425,7 +425,7 @@
 				"me": false
 			},
 			"blockBuffs": {
-				"area": true,
+				"area": false,
 				"shapeChange": true,
 				"effects": true
 			},

@@ -24,6 +24,14 @@
 			"overwrite": false,
 			"hash": "8bce1a6f8d4197e755ddf6fd332e63118fa39bec3d73aa756f7a75391aea47bf"
 		},
+		"settings/presets/priest.json": {
+			"overwrite": false,
+			"hash": "8bce1a6f8d4197e755ddf6fd332e63118fa39bec3d73aa756f7a75391aea47bf"
+		},
+		"settings/presets/elementalist.json": {
+			"overwrite": false,
+			"hash": "8bce1a6f8d4197e755ddf6fd332e63118fa39bec3d73aa756f7a75391aea47bf"
+		},
 		"settings/settings.json": {
 			"overwrite": false,
 			"hash": "9f157c450c75bef2b0054d0bb353d1164d3ea5b44c4d09f31fbb3ee998349145"
