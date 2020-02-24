@@ -8,7 +8,6 @@
   },
   "scripts": {
     "lint": "npx eslint '**/*.js' --fix",
-    "version": "auto-changelog --package && git add CHANGELOG.md",
     "manifest": "node ./.manifest.js"
   },
   "author": "SaltyMonkey",

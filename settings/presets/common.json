@@ -11,9 +11,9 @@
 	},
 	"modes": {
 		"0": {
-			"throttleSomePackets": false,
+			"throttleSomePackets": true,
 			"blockCustomAppearanceChanges": false,
-			"blockUselessPackets": false,
+			"blockUselessPackets": true,
 			"blockAnnoyingScreenMessages": false,
 			"blockRngBoxesVisuals": false,
 			"blockNoctsEffect": false,
@@ -91,31 +91,31 @@
 		},
 		"1": {
 			"throttleSomePackets": true,
-			"blockCustomAppearanceChanges": true,
+			"blockCustomAppearanceChanges": false,
 			"blockUselessPackets": true,
-			"blockAnnoyingScreenMessages": true,
-			"blockRngBoxesVisuals": true,
-			"blockNoctsEffect": true,
+			"blockAnnoyingScreenMessages": false,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
 			"blockActionScripts": true,
-			"blockNpcsDeathAnimations": true,
+			"blockNpcsDeathAnimations": false,
 			"blockAchievementsInCombat": false,
 			"blockInventoryInCombat": false,
 			"blockShakeEffects": true,
-			"blockGatherNodes": true,
+			"blockGatherNodes": false,
 			"blockTabletsWithText": false,
-			"blockPetBaloons": true,
+			"blockPetBaloons": false,
 			"blockHits": {
-				"area": true,
+				"area": false,
 				"me": false
 			},
 			"blockBuffs": {
 				"area": false,
-				"shapeChange": true,
-				"effects": true
+				"shapeChange": false,
+				"effects": false
 			},
 			"blockNumbersPopups": {
-				"hp": true,
-				"mp": true,
+				"hp": false,
+				"mp": false,
 				"damage": false
 			},
 			"blockAdditionalSkillEffects": {
@@ -124,7 +124,7 @@
 				"keepParty": false
 			},
 			"blockProjectiles": {
-				"players": false,
+				"players": true,
 				"keepClass": [],
 				"keepRawId": [],
 				"keepParty": false
@@ -170,35 +170,35 @@
 		},
 		"2": {
 			"throttleSomePackets": true,
-			"blockCustomAppearanceChanges": true,
+			"blockCustomAppearanceChanges": false,
 			"blockUselessPackets": true,
-			"blockAnnoyingScreenMessages": true,
-			"blockRngBoxesVisuals": true,
-			"blockNoctsEffect": true,
+			"blockAnnoyingScreenMessages": false,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
 			"blockActionScripts": true,
-			"blockNpcsDeathAnimations": true,
-			"blockAchievementsInCombat": true,
-			"blockInventoryInCombat": true,
+			"blockNpcsDeathAnimations": false,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
 			"blockShakeEffects": true,
-			"blockGatherNodes": true,
+			"blockGatherNodes": false,
 			"blockTabletsWithText": false,
-			"blockPetBaloons": true,
+			"blockPetBaloons": false,
 			"blockHits": {
-				"area": true,
-				"me": true
+				"area": false,
+				"me": false
 			},
 			"blockBuffs": {
-				"area": true,
-				"shapeChange": true,
-				"effects": true
+				"area": false,
+				"shapeChange": false,
+				"effects": false
 			},
 			"blockNumbersPopups": {
-				"hp": true,
-				"mp": true,
-				"damage": true
+				"hp": false,
+				"mp": false,
+				"damage": false
 			},
 			"blockAdditionalSkillEffects": {
-				"own": true,
+				"own": false,
 				"players": true,
 				"keepParty": false
 			},
@@ -216,7 +216,7 @@
 				"area": true
 			},
 			"blockSummons": {
-				"me": true,
+				"me": false,
 				"area": true
 			},
 			"blockSkills": {
@@ -226,6 +226,86 @@
 				"keepRawId": [],
 				"rawId": [],
 				"extended": {
+
+				}
+			},
+			"blockNpcs": {
+				"templateId": [],
+				"huntingZoneId": []
+			},
+			"blockPlayers": {
+				"all": false,
+				"keepParty": true,
+				"class": [],
+				"name": []
+			},
+			"blockPlayersAppearance": {
+				"voice": false,
+				"allTitles": false,
+				"icons": false,
+				"allLook": true,
+				"p2wLook": false
+			}
+		},
+		"3": {
+			"throttleSomePackets": true,
+			"blockCustomAppearanceChanges": false,
+			"blockUselessPackets": true,
+			"blockAnnoyingScreenMessages": false,
+			"blockRngBoxesVisuals": false,
+			"blockNoctsEffect": false,
+			"blockActionScripts": true,
+			"blockNpcsDeathAnimations": false,
+			"blockAchievementsInCombat": false,
+			"blockInventoryInCombat": false,
+			"blockShakeEffects": true,
+			"blockGatherNodes": false,
+			"blockTabletsWithText": false,
+			"blockPetBaloons": false,
+			"blockHits": {
+				"area": false,
+				"me": false
+			},
+			"blockBuffs": {
+				"area": false,
+				"shapeChange": false,
+				"effects": false
+			},
+			"blockNumbersPopups": {
+				"hp": false,
+				"mp": false,
+				"damage": false
+			},
+			"blockAdditionalSkillEffects": {
+				"own": false,
+				"players": true,
+				"keepParty": false
+			},
+			"blockProjectiles": {
+				"players": true,
+				"keepClass": [],
+				"keepRawId": [],
+				"keepParty": false
+			},
+			"blockDropItems": {
+				"all": false,
+				"templateId": []
+			},
+			"blockServants": {
+				"area": true
+			},
+			"blockSummons": {
+				"me": false,
+				"area": true
+			},
+			"blockSkills": {
+				"all": true,
+				"keepClass": [],
+				"class": [],
+				"keepRawId": [],
+				"rawId": [],
+				"extended": {
+
 				}
 			},
 			"blockNpcs": {
@@ -239,10 +319,10 @@
 				"name": []
 			},
 			"blockPlayersAppearance": {
-				"voice": false,
+				"voice": true,
 				"allTitles": false,
 				"icons": false,
-				"allLook": false,
+				"allLook": true,
 				"p2wLook": false
 			}
 		}
