@@ -3,15 +3,15 @@
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
 		"README.md": "68df1bcffba1586ca38506aedec8f274aad36ed86140e641bca3e4d14a0567bd",
 		"data/migrationData.js": "8cbfe636cbecd91630f3636e7ffc98f6640e1cb082d786fb832c202da2b31d63",
-		"data/protoData.json": "9d7749068da0864054091a573e5ed8a601e582ae9ec04c567a32b0275e44fda9",
+		"data/protoData.json": "99e09141b5cfc088e07a6808b4ebbd97f8d74091c0be2a2e8f7092bc21889138",
 		"data/staticData.json": "1f5346efc294b844e6cb86e21f85a5b7cb4dfe3f656505c9951d90951412ec0a",
 		"fpsManager.js": "44453665a8d7ddcd3d3ea546c7e1a72338bb75f6e48ce53a013ec06a4beba105",
-		"lib/helpers/enums.js": "04e66079ef969c1eb8c4963cf03c08d8a23edec6928854c624d2094bbf3e1979",
+		"lib/helpers/enums.js": "be44cf8ca53b1e5cee2910d740b18b13b38f53c29afae97cd7f10ab795676583",
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
-		"lib/unitFps.js": "c2f1abb71e097f00d309eaa2a53a52983ff9a2e3b15db60526a8b08ef1292995",
+		"lib/unitFps.js": "4d5b512fc6bf7c0fc4e5bbdf98565ae9472de7abcc03b2f7af830ddab876fc55",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "08a2871ee031f50de0e6826231c573af153d3fb9d52d14128f6c38ebef73f179",
-		"lib/unitTracker.js": "ff9ce4a8333f8800d1b1424dabbdbe174a269afed7635dd063aac44a6e7eff15",
+		"lib/unitTracker.js": "0223d699d34d6d01f5ac2848a5b4375d0ec98283e263dca02cbd6387d5efb14a",
 		"module.json": "9e9eeb82da4134f11a573c2f35c9c3a76540a58561eb9323d1e7b0cae663a0fc",
 		"node_modules/rfdc/LICENSE": "1ce941682a96c7b898ecd125d0f2e22319758ea6f3adbf498a65d649b0f3f7dd",
 		"node_modules/rfdc/index.js": "b1e2abd3238c080ad5b96f61d6a461b679c475b4b1bbceef776417e5e1922149",
@@ -22,7 +22,7 @@
 		"package.json": "7504249ec18b1c766819b36c4ba909313675bec7c2e8881ae692bd3b33a240f1",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "a233782fa92d01ce500be47c3b7c41e2b248510a088ef953882083a86d81972b"
+			"hash": "c8b9e1070955afff4d6cf93188e84a2ed2da2c82c68005a6894a5ecb4ad2fb41"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
