@@ -8,7 +8,7 @@
 		"fpsManager.js": "44453665a8d7ddcd3d3ea546c7e1a72338bb75f6e48ce53a013ec06a4beba105",
 		"lib/helpers/enums.js": "be44cf8ca53b1e5cee2910d740b18b13b38f53c29afae97cd7f10ab795676583",
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
-		"lib/unitFps.js": "108f26e5379c44818ac5c3b372f9680d375bed46cd89f88320bc6c87357e128b",
+		"lib/unitFps.js": "58204cbd49948ccba0657d8f26e55eee1599b634b423e95d985f64927affb93b",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "e85cb47b1f61c158490ea7475a7a3fdaf269284d3cf992eb7ab18e3916339bfd",
 		"lib/unitTracker.js": "0223d699d34d6d01f5ac2848a5b4375d0ec98283e263dca02cbd6387d5efb14a",
@@ -34,7 +34,7 @@
 		},
 		"settings/settings.json": {
 			"overwrite": false,
-			"hash": "9f157c450c75bef2b0054d0bb353d1164d3ea5b44c4d09f31fbb3ee998349145"
+			"hash": "1a47d6f24ef32b09fcf2611a71b1fedd5aaa9d4a5b960ba492cdd3ad1da43e7a"
 		},
 		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
 		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
