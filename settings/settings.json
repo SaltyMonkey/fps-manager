@@ -2,7 +2,7 @@
     "version": 1,
     "data": {
         "registerCommands": true,
-        "fpsUtilsCommandsPrefix": false,
+        "fpsUtilsCommandsPrefix": true,
         "registerUI": true,
         "registerUIShortcut": false,
         "UIShortcut": "",
