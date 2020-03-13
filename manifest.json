@@ -18,7 +18,7 @@
 		"node_modules/rfdc/package.json": "88e323621b6835ca2b980ab1d7507f49a2b63f4c8d3301d010640de363694bd3",
 		"node_modules/rfdc/readme.md": "67da311a12dd2d655fc656bafd5d5f0345cd322667bb58201623b468d195bf05",
 		"node_modules/rfdc/test/index.js": "89c8b6631df835a01305a62ebf6ae94feb4381bcc8083fcd30bd4a394f3e5e17",
-		"package-lock.json": "2d8a16952ce660a5385f17aa438cd926f49be9487cb945240f7425236b1487bf",
+		"package-lock.json": "ea7ebfdd1dbdb1730b9a5fd6cbc22de72d01ddd60a24b0fddf1a4bb4d7691e5b",
 		"package.json": "d998c75de76f2f637be797991309eceab5b68369aba031e15809f8e59d3da6e5",
 		"settings/presets/common.json": {
 			"overwrite": false,
