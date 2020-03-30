@@ -15,7 +15,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
-    "eslint-plugin-node": "^11.0.0"
+    "eslint-plugin-node": "^11.1.0"
   },
   "dependencies": {
     "rfdc": "^1.1.4",
