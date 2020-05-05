@@ -30,6 +30,7 @@
 				"me": false
 			},
 			"blockBuffs": {
+				"ccb": false,
 				"area": false,
 				"shapeChange": false,
 				"effects": false
@@ -109,6 +110,7 @@
 				"me": false
 			},
 			"blockBuffs": {
+				"ccb": false,
 				"area": false,
 				"shapeChange": true,
 				"effects": true
@@ -188,6 +190,7 @@
 				"me": false
 			},
 			"blockBuffs": {
+				"ccb": false,
 				"area": true,
 				"shapeChange": true,
 				"effects": true
@@ -267,6 +270,7 @@
 				"me": false
 			},
 			"blockBuffs": {
+				"ccb": false,
 				"area": true,
 				"shapeChange": true,
 				"effects": true
@@ -346,6 +350,7 @@
 				"me": false
 			},
 			"blockBuffs": {
+				"ccb": false,
 				"area": false,
 				"shapeChange": true,
 				"effects": true
@@ -425,6 +430,7 @@
 				"me": false
 			},
 			"blockBuffs": {
+				"ccb": false,
 				"area": true,
 				"shapeChange": true,
 				"effects": true
@@ -504,6 +510,7 @@
 				"me": false
 			},
 			"blockBuffs": {
+				"ccb": false,
 				"area": true,
 				"shapeChange": true,
 				"effects": true
