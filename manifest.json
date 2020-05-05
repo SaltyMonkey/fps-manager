@@ -18,8 +18,8 @@
 		"node_modules/rfdc/package.json": "88e323621b6835ca2b980ab1d7507f49a2b63f4c8d3301d010640de363694bd3",
 		"node_modules/rfdc/readme.md": "67da311a12dd2d655fc656bafd5d5f0345cd322667bb58201623b468d195bf05",
 		"node_modules/rfdc/test/index.js": "89c8b6631df835a01305a62ebf6ae94feb4381bcc8083fcd30bd4a394f3e5e17",
-		"package-lock.json": "93a2026d2d06689b52f960f16858801df3c655822bdcd106e1b0697c50e32953",
-		"package.json": "802184e3ef02a5d9ff6d3e496033f2d2306adbca1134a5bf558647c053997fa8",
+		"package-lock.json": "ec06f13989ff95d53a3fc9cb9548d40af8c8b3e44da764d73f0ebbaa37c7e715",
+		"package.json": "458c0d3d2d8437cb03ff74d80bd72633731271b65adba580163b938967f7d8b1",
 		"settings/presets/common.json": {
 			"overwrite": false,
 			"hash": "13a186824e55c0f728f74478f62999f931ce216ea512f14f31d5da38d8922899"
