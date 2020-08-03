@@ -18,8 +18,8 @@
 		"node_modules/rfdc/package.json": "88e323621b6835ca2b980ab1d7507f49a2b63f4c8d3301d010640de363694bd3",
 		"node_modules/rfdc/readme.md": "67da311a12dd2d655fc656bafd5d5f0345cd322667bb58201623b468d195bf05",
 		"node_modules/rfdc/test/index.js": "89c8b6631df835a01305a62ebf6ae94feb4381bcc8083fcd30bd4a394f3e5e17",
-		"package-lock.json": "965e29280e83e255aa4cb20fb88d51fe36411d54e46e7e1a90e987b160d8cb49",
-		"package.json": "bdd08f5ce0f85fee98e4d8bf324dbf41cfff243020949a3e63192982c94c35c1",
+		"package-lock.json": "d5e1f285f3631b0e840145b47824745f95ed67402567577593f967b5bb0b141a",
+		"package.json": "18a2d8ce61c64a4908c7f16dc4ac3995c176c87c787a4dffa0408f620225e729",
 		"settings/presets/common.json": {
 			"overwrite": false,
 			"hash": "92a5c0b8c98a9c9c70d19b2527eaa326151f15ee83ecd18070d4a679a426f2d5"
@@ -37,8 +37,8 @@
 			"hash": "1a47d6f24ef32b09fcf2611a71b1fedd5aaa9d4a5b960ba492cdd3ad1da43e7a"
 		},
 		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
-		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
-		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
+		"node_modules/string-similarity/README.md": "e0426dd73834439722da819b1e0882bb657d0581219f03bfaee7ab82f02b7449",
+		"node_modules/string-similarity/package.json": "f7e56606f3329e59075a30250da44972207c3ecae2fbac9051591935fa26fc7b",
 		"node_modules/string-similarity/src/index.js": "941fc8276576aaa2952d4731d90fdc4b7fb2bb3871646e6cd4da47823c432520",
 		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31",
 		"lib/management/cmd.js": "b32ac2a9aaf65e3a682125d74faca5bcf6dff6885a7eaae0df4e6e8a2e393f8c",
