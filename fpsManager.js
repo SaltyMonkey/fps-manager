@@ -42,9 +42,7 @@ class FpsManager {
 		let deps = { "mod": mod };
 
 		//check compatibility (only warning atm)
-		if (mod.proxyAuthor !== "caali")
-			mod.error(msg.runtimeWarning);
-		else if (mod.proxyAuthor === "caali" && !mod.clientInterface)
+		if (mod.isProxyCompat)
 			mod.error(msg.proxyWarning);
 		// eslint-disable-next-line node/no-missing-require
 		else if (!require("tera-data-parser").types)
