@@ -49,7 +49,8 @@ class FpsManager {
 			mod.error(msg.runtimeOld);
 
 		mod.game.initialize("me");
-
+		mod.game.initialize("party");
+		
 		units.forEach(unit => {
 			// eslint-disable-next-line no-magic-numbers
 			deps[unit[0]] = new unit[1](deps);
