@@ -8,7 +8,7 @@
 		"fpsManager.js": "870556c87ebb5bd853a2c6207a4777668952d4dd826305eb9370d546d7f5ba33",
 		"lib/helpers/enums.js": "be44cf8ca53b1e5cee2910d740b18b13b38f53c29afae97cd7f10ab795676583",
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
-		"lib/unitFps.js": "9b20b004891e324829b5fe867312818957848c7f7936b7dbabe5b82ad203e173",
+		"lib/unitFps.js": "be7c33f2972c1f5504d232a54f96408bdcbabc9dee3c484b6de6222fd674f1cc",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "c2748125d6ac19a81daf3464683e2d18802c045eae5522625930032f133dfcb1",
 		"lib/unitTracker.js": "f7426397562ff5b4ffe88f069131d7a051a88eeb96b1bcb9a59862ea2fa74081",
