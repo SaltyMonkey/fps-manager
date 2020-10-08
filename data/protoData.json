@@ -37,13 +37,15 @@
 		"default": 3
 	},
 	"S_SPAWN_USER": {
-		"default": 15
+		"default": 15,
+		"99": 16
 	},
 	"S_DESPAWN_USER": {
 		"default": 3
 	},
 	"S_SPAWN_DROPITEM": {
-		"default": 8
+		"default": 8,
+		"99": 9
 	},
 	"S_DESPAWN_DROPITEM": {
 		"default": 4
