@@ -37,8 +37,7 @@
 		"default": 3
 	},
 	"S_SPAWN_USER": {
-		"default": 15,
-		"99": 16
+		"default": 16
 	},
 	"S_DESPAWN_USER": {
 		"default": 3
