@@ -43,8 +43,7 @@
 		"default": 3
 	},
 	"S_SPAWN_DROPITEM": {
-		"default": 8,
-		"99": 9
+		"default": 9
 	},
 	"S_DESPAWN_DROPITEM": {
 		"default": 4
