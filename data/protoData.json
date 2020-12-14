@@ -31,13 +31,15 @@
 		"default": 1
 	},
 	"S_SPAWN_NPC": {
-		"default": 11
+		"default": 12,
+		"100": 11
 	},
 	"S_DESPAWN_NPC": {
 		"default": 3
 	},
 	"S_SPAWN_USER": {
-		"default": 16
+		"default": 17,
+		"100": 16
 	},
 	"S_DESPAWN_USER": {
 		"default": 3
