@@ -18,7 +18,7 @@
     "eslint-plugin-node": "^11.1.0"
   },
   "dependencies": {
-    "rfdc": "^1.1.4",
+    "rfdc": "^1.2.0",
     "string-similarity": "^4.0.1"
   }
 }
