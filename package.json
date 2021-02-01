@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "rfdc": "^1.2.0",
-    "string-similarity": "^4.0.1"
+    "string-similarity": "^4.0.4"
   }
 }
