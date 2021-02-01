@@ -18,8 +18,8 @@
 		"node_modules/rfdc/package.json": "87e38a1b6e4cdc368e32085557c26921362631d41a2b26ed28691dc9161ecf4d",
 		"node_modules/rfdc/readme.md": "c09d5aa4b0895e0c38a16f499bb677a09bdc5b165066ae2243738aa9e7ebb5d3",
 		"node_modules/rfdc/test/index.js": "873efbd9a644ab8612058e455945d8e2138c9dda3f4240e781dc68ab6995092f",
-		"package-lock.json": "0e69b6b70efe996770ebcadf89d1d74bffc41e6d2b3da2d062d518082ff3e028",
-		"package.json": "357cb0a741a0e854c0e68eb2da222fb2537fac1691a7ab083491095f5ca6ef4d",
+		"package-lock.json": "a3ee405d80c0aa2f2a3c8d4dd7b5ad346b38c15682262bd1f55f3d9031c81170",
+		"package.json": "912f53d6d02cb0a34fe3348070e0130b0dfe56653a0052639ee9b16425f6c1f4",
 		"settings/presets/common.json": {
 			"overwrite": false,
 			"hash": "92a5c0b8c98a9c9c70d19b2527eaa326151f15ee83ecd18070d4a679a426f2d5"
@@ -37,10 +37,10 @@
 			"hash": "1a47d6f24ef32b09fcf2611a71b1fedd5aaa9d4a5b960ba492cdd3ad1da43e7a"
 		},
 		"node_modules/string-similarity/LICENSE": "ed8b8280861f6f093dfbb82aef792317ce445a7126443954a196c78632a52815",
-		"node_modules/string-similarity/README.md": "443d8952322603416199f4e36139ca5db02350af7043112432aa04c82d2434c9",
-		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
-		"node_modules/string-similarity/src/index.js": "941fc8276576aaa2952d4731d90fdc4b7fb2bb3871646e6cd4da47823c432520",
-		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31",
+		"node_modules/string-similarity/README.md": "a018cba3a035e14dfb7dae74addd233bb5dc5744eda2ce67564f1bb3cbc0492b",
+		"node_modules/string-similarity/package.json": "f31ed4d9442298ae00be9c6692c431f392aef51631361303a6e8e56f4620b8b4",
+		"node_modules/string-similarity/src/index.js": "b3b6505f784755ed0cf5c25e2705d11c2696468e3c58c70b22b795eca16eb67f",
+		"node_modules/string-similarity/umd/string-similarity.min.js": "76ba6e1015ad4280ea7d698f130cebe91bb840c6a74278d00ad1be5f13592066",
 		"node_modules/rfdc/default.js": "d7f46114c176de337df05aef386228b8ee1cd60e93a7400ee4ac98b91651f35e",
 		"node_modules/rfdc/index.d.ts": "1ce746559c2b493ba53418bb35dcfb13b8581bed88c0ac484d92b004077c4b4e",
 		"node_modules/rfdc/index.test-d.ts": "7804d55c3b95c6f79ee64476b095ccd4917f3866c3ec7a127a1ff3cd438ff071",
