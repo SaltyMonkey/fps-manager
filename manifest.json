@@ -41,10 +41,10 @@
 		"node_modules/string-similarity/package.json": "a530c1ac158cef573c43afc9151d27c8c225773736f682eaf0f8acce480055d0",
 		"node_modules/string-similarity/src/index.js": "941fc8276576aaa2952d4731d90fdc4b7fb2bb3871646e6cd4da47823c432520",
 		"node_modules/string-similarity/umd/string-similarity.min.js": "656fdfee8a18fc7f1ff1ff5f5d1dee8efc87be96a5e0e74489a986bdc7d95f31",
-		"lib/management/cmd.js": "b32ac2a9aaf65e3a682125d74faca5bcf6dff6885a7eaae0df4e6e8a2e393f8c",
-		"lib/unitLog.js": "3b430c1fcd1121f30036f314f7829361e9548245f7ff7be97e44d344179001b7",
 		"node_modules/rfdc/default.js": "d7f46114c176de337df05aef386228b8ee1cd60e93a7400ee4ac98b91651f35e",
 		"node_modules/rfdc/index.d.ts": "1ce746559c2b493ba53418bb35dcfb13b8581bed88c0ac484d92b004077c4b4e",
-		"node_modules/rfdc/index.test-d.ts": "7804d55c3b95c6f79ee64476b095ccd4917f3866c3ec7a127a1ff3cd438ff071"
+		"node_modules/rfdc/index.test-d.ts": "7804d55c3b95c6f79ee64476b095ccd4917f3866c3ec7a127a1ff3cd438ff071",
+		"lib/management/cmd.js": "bc34bca4d522329410ce2ee9499c2ebb652f88a0d77479723ca17090c2f8fe48",
+		"lib/unitLog.js": "3b430c1fcd1121f30036f314f7829361e9548245f7ff7be97e44d344179001b7"
 	}
 }
