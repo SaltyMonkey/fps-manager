@@ -8,7 +8,7 @@
 		"fpsManager.js": "870556c87ebb5bd853a2c6207a4777668952d4dd826305eb9370d546d7f5ba33",
 		"lib/helpers/enums.js": "be44cf8ca53b1e5cee2910d740b18b13b38f53c29afae97cd7f10ab795676583",
 		"lib/helpers/utils.js": "d93a1087be6df91a93f9e616954d1530c27310e30a8f33ee0987ae2d25c5e14c",
-		"lib/unitFps.js": "3c2d14a5819d431b0bc31a7560bec2381097d4db5cc2ea984fc8902028effb4a",
+		"lib/unitFps.js": "e93fbfb9afde2b2d5ca6970324b6379aff78f273c79c1a6b11d03c548b6eac51",
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "c917a87e648e06f5988e94dc1793a58a555f60d105301be936b6c82009d2d150",
 		"lib/unitTracker.js": "f7426397562ff5b4ffe88f069131d7a051a88eeb96b1bcb9a59862ea2fa74081",
@@ -22,15 +22,15 @@
 		"package.json": "ee12c11a0a8b4631a6244dc037904cd261aa89f712ac86466f45286b79eaa65b",
 		"settings/presets/common.json": {
 			"overwrite": false,
-			"hash": "92a5c0b8c98a9c9c70d19b2527eaa326151f15ee83ecd18070d4a679a426f2d5"
+			"hash": "4547db0bb8cf55aabeaf4c091f4e749fa5ff58503629a89b08b53cfe413e472f"
 		},
 		"settings/presets/priest.json": {
 			"overwrite": false,
-			"hash": "cbba7e69ad89ae28f4c840cf2e329391f3a6af1a278cc84a20f0bc8cc882cee5"
+			"hash": "b6b9c370c7e0c2561b75cce34c90c2532d9945edd3282c189ce326e82753e09c"
 		},
 		"settings/presets/elementalist.json": {
 			"overwrite": false,
-			"hash": "cbba7e69ad89ae28f4c840cf2e329391f3a6af1a278cc84a20f0bc8cc882cee5"
+			"hash": "b6b9c370c7e0c2561b75cce34c90c2532d9945edd3282c189ce326e82753e09c"
 		},
 		"settings/settings.json": {
 			"overwrite": false,
