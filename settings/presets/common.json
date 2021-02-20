@@ -60,7 +60,8 @@
 			},
 			"blockSummons": {
 				"me": false,
-				"area": false
+				"area": false,
+				"keepTemplateId": []
 			},
 			"blockSkills": {
 				"all": false,
@@ -140,7 +141,8 @@
 			},
 			"blockSummons": {
 				"me": false,
-				"area": true
+				"area": true,
+				"keepTemplateId": []
 			},
 			"blockSkills": {
 				"all": false,
@@ -220,7 +222,8 @@
 			},
 			"blockSummons": {
 				"me": false,
-				"area": true
+				"area": true,
+				"keepTemplateId": []
 			},
 			"blockSkills": {
 				"all": true,
@@ -300,7 +303,8 @@
 			},
 			"blockSummons": {
 				"me": false,
-				"area": true
+				"area": true,
+				"keepTemplateId": []
 			},
 			"blockSkills": {
 				"all": true,
@@ -380,7 +384,8 @@
 			},
 			"blockSummons": {
 				"me": false,
-				"area": true
+				"area": true,
+				"keepTemplateId": []
 			},
 			"blockSkills": {
 				"all": false,
@@ -460,7 +465,8 @@
 			},
 			"blockSummons": {
 				"me": false,
-				"area": true
+				"area": true,
+				"keepTemplateId": []
 			},
 			"blockSkills": {
 				"all": true,
@@ -540,7 +546,8 @@
 			},
 			"blockSummons": {
 				"me": true,
-				"area": true
+				"area": true,
+				"keepTemplateId": []
 			},
 			"blockSkills": {
 				"all": true,
