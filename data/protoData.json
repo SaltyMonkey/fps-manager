@@ -126,8 +126,7 @@
 		"default": 3
 	},
 	"S_USER_LOCATION": {
-		"default": 5,
-		"105": 6
+		"default": 6
 	},
 	"S_CREATURE_LIFE": {
 		"default": 3
