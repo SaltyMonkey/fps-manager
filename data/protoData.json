@@ -9,8 +9,8 @@
 		"default": 2
 	},
 	"S_ITEMLIST": {
-		"default": 4,
-		"95": 3
+		"default": 5,
+		"106": 4
 	},
 	"S_UPDATE_ACHIEVEMENT_PROGRESS": {
 		"default": 1
@@ -84,7 +84,8 @@
 		"default": 5
 	},
 	"S_ABNORMALITY_BEGIN": {
-		"default": 3
+		"default": 5,
+		"106": 4
 	},
 	"S_ABNORMALITY_END": {
 		"default": 1
