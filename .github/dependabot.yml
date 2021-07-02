@@ -1,0 +1,15 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "22:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: string-similarity
+    versions:
+    - 4.0.2
+  - dependency-name: eslint
+    versions:
+    - 7.0.0
