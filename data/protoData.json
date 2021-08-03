@@ -54,7 +54,7 @@
 		"default": 1
 	},
 	"S_USER_STATUS": {
-		"default": 3
+		"default": 4
 	},
 	"S_USER_MOVETYPE": {
 		"default": 1
