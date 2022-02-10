@@ -9,8 +9,7 @@
 		"default": 2
 	},
 	"S_ITEMLIST": {
-		"default": 6,
-		"108": 5
+		"default": 7
 	},
 	"S_UPDATE_ACHIEVEMENT_PROGRESS": {
 		"default": 1
